@@ -1,0 +1,29 @@
+﻿@model  TestVm
+@{
+    ViewBag.Title = "Home Page";
+}
+
+<div class="jumbotron">
+    <h1>ASP.NET MVC</h1>
+    <p class="lead">
+        Custom Component Kendo UI
+    </p>
+</div>
+
+<div class="row">
+    @using (Html.BeginForm())
+    {
+        @*<table class="form">
+            @Html.AntiForgeryToken()
+            @Html.ValidationSummary(true)
+            @Html.EnhancedEditorField(model => model.VersionApp)
+            @Html.EnhancedEditorField(model => model.VersionName)
+            @Html.EnhancedEditorField(model => model.VersionStaticValue)
+            @Html.EnhancedEditorField(model => model.DownloadUrl)
+            @Html.EnhancedEditorField(model => model.IsForceDownload)
+            @Html.EnhancedEditorField(model => model.CreateDate)
+            @Html.EnhancedEditorField(model => model.Description)
+            @Html.EnhancedSubmit()
+        </table>*@
+    }
+</div>
