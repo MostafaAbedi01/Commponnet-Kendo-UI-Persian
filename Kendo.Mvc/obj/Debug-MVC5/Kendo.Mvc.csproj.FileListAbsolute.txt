@@ -1,0 +1,15 @@
+E:\Abedi_TFS_LoyalBank\LoyalBankWS\LoyalBankLibrary\Kendo.Mvc\obj\Debug-MVC5\Kendo.Mvc.csprojResolveAssemblyReference.cache
+E:\Abedi_TFS_LoyalBank\LoyalBankWS\LoyalBankLibrary\Kendo.Mvc\obj\Debug-MVC5\Kendo.Mvc.Resources.Exceptions.resources
+E:\Abedi_TFS_LoyalBank\LoyalBankWS\LoyalBankLibrary\Kendo.Mvc\obj\Debug-MVC5\Kendo.Mvc.Resources.Messages.resources
+E:\Abedi_TFS_LoyalBank\LoyalBankWS\LoyalBankLibrary\Kendo.Mvc\obj\Debug-MVC5\Kendo.Mvc.Resources.Exceptions.fa-IR.resources
+E:\Abedi_TFS_LoyalBank\LoyalBankWS\LoyalBankLibrary\Kendo.Mvc\obj\Debug-MVC5\Kendo.Mvc.Resources.Messages.fa-IR.resources
+E:\Abedi_TFS_LoyalBank\LoyalBankWS\LoyalBankLibrary\Kendo.Mvc\obj\Debug-MVC5\Kendo.Mvc.Resources.Messages.fr-FR.resources
+E:\Abedi_TFS_LoyalBank\LoyalBankWS\LoyalBankLibrary\Kendo.Mvc\obj\Debug-MVC5\Kendo.Mvc.csproj.GenerateResource.Cache
+D:\Abedi_TFS_CipMehrabad\Cip_Mehrabad\CipMehrabadLibrary\Kendo.Mvc\obj\Debug-MVC5\Kendo.Mvc.csprojAssemblyReference.cache
+D:\Abedi_TFS_CipMehrabad\Cip_Mehrabad\CipMehrabadLibrary\Kendo.Mvc\obj\Debug-MVC5\Kendo.Mvc.Resources.Exceptions.resources
+D:\Abedi_TFS_CipMehrabad\Cip_Mehrabad\CipMehrabadLibrary\Kendo.Mvc\obj\Debug-MVC5\Kendo.Mvc.Resources.Messages.resources
+D:\Abedi_TFS_CipMehrabad\Cip_Mehrabad\CipMehrabadLibrary\Kendo.Mvc\obj\Debug-MVC5\Kendo.Mvc.Resources.Exceptions.fa-IR.resources
+D:\Abedi_TFS_CipMehrabad\Cip_Mehrabad\CipMehrabadLibrary\Kendo.Mvc\obj\Debug-MVC5\Kendo.Mvc.Resources.Messages.fa-IR.resources
+D:\Abedi_TFS_CipMehrabad\Cip_Mehrabad\CipMehrabadLibrary\Kendo.Mvc\obj\Debug-MVC5\Kendo.Mvc.Resources.Messages.fr-FR.resources
+D:\Abedi_TFS_CipMehrabad\Cip_Mehrabad\CipMehrabadLibrary\Kendo.Mvc\obj\Debug-MVC5\Kendo.Mvc.csproj.GenerateResource.cache
+D:\Abedi_TFS_CipMehrabad\Cip_Mehrabad\CipMehrabadLibrary\Kendo.Mvc\obj\Debug-MVC5\Kendo.Mvc.csproj.CoreCompileInputs.cache

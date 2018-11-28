@@ -180,3 +180,14 @@ D:\Github\CommponnetKendoUI\CustomComponentKendo\obj\Debug\CustomComponentKendo.
 D:\Github\CommponnetKendoUI\CustomComponentKendo\obj\Debug\CustomComponentKendo.csproj.CopyComplete
 D:\Github\CommponnetKendoUI\CustomComponentKendo\obj\Debug\CustomComponentKendo.dll
 D:\Github\CommponnetKendoUI\CustomComponentKendo\obj\Debug\CustomComponentKendo.pdb
+D:\Github\CommponnetKendoUI\CustomComponentKendo\bin\CommonLibrary.dll
+D:\Github\CommponnetKendoUI\CustomComponentKendo\bin\Kendo.Mvc.dll
+D:\Github\CommponnetKendoUI\CustomComponentKendo\bin\System.Web.Http.WebHost.dll
+D:\Github\CommponnetKendoUI\CustomComponentKendo\bin\RestSharp.dll
+D:\Github\CommponnetKendoUI\CustomComponentKendo\bin\System.Web.Http.dll
+D:\Github\CommponnetKendoUI\CustomComponentKendo\bin\System.Net.Http.Formatting.dll
+D:\Github\CommponnetKendoUI\CustomComponentKendo\bin\CommonLibrary.pdb
+D:\Github\CommponnetKendoUI\CustomComponentKendo\bin\Kendo.Mvc.pdb
+D:\Github\CommponnetKendoUI\CustomComponentKendo\bin\RestSharp.xml
+D:\Github\CommponnetKendoUI\CustomComponentKendo\bin\fa-IR\Kendo.Mvc.resources.dll
+D:\Github\CommponnetKendoUI\CustomComponentKendo\bin\fr-FR\Kendo.Mvc.resources.dll

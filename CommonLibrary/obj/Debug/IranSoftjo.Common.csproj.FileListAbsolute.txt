@@ -1,0 +1,146 @@
+G:\TFS_MostafaAbedi\TFSPROJECTMOSTAFABEDI\IranSoftjoWebPackage\IranSoftjo.Library\IranSoftjo.Common\bin\Debug\IranSoftjo.Common.dll
+G:\TFS_MostafaAbedi\TFSPROJECTMOSTAFABEDI\IranSoftjoWebPackage\IranSoftjo.Library\IranSoftjo.Common\bin\Debug\IranSoftjo.Common.pdb
+G:\TFS_MostafaAbedi\TFSPROJECTMOSTAFABEDI\IranSoftjoWebPackage\IranSoftjo.Library\IranSoftjo.Common\bin\Debug\System.Web.Http.WebHost.dll
+G:\TFS_MostafaAbedi\TFSPROJECTMOSTAFABEDI\IranSoftjoWebPackage\IranSoftjo.Library\IranSoftjo.Common\bin\Debug\System.Web.Http.dll
+G:\TFS_MostafaAbedi\TFSPROJECTMOSTAFABEDI\IranSoftjoWebPackage\IranSoftjo.Library\IranSoftjo.Common\bin\Debug\System.Net.Http.Formatting.dll
+G:\TFS_MostafaAbedi\TFSPROJECTMOSTAFABEDI\IranSoftjoWebPackage\IranSoftjo.Library\IranSoftjo.Common\bin\Debug\Newtonsoft.Json.dll
+G:\TFS_MostafaAbedi\TFSPROJECTMOSTAFABEDI\IranSoftjoWebPackage\IranSoftjo.Library\IranSoftjo.Common\bin\Debug\System.Web.Http.WebHost.xml
+G:\TFS_MostafaAbedi\TFSPROJECTMOSTAFABEDI\IranSoftjoWebPackage\IranSoftjo.Library\IranSoftjo.Common\bin\Debug\System.Web.Http.xml
+G:\TFS_MostafaAbedi\TFSPROJECTMOSTAFABEDI\IranSoftjoWebPackage\IranSoftjo.Library\IranSoftjo.Common\bin\Debug\System.Net.Http.Formatting.xml
+G:\TFS_MostafaAbedi\TFSPROJECTMOSTAFABEDI\IranSoftjoWebPackage\IranSoftjo.Library\IranSoftjo.Common\obj\Debug\IranSoftjo.Common.dll
+G:\TFS_MostafaAbedi\TFSPROJECTMOSTAFABEDI\IranSoftjoWebPackage\IranSoftjo.Library\IranSoftjo.Common\obj\Debug\IranSoftjo.Common.pdb
+G:\TFS_MostafaAbedi\TFSPROJECTMOSTAFABEDI\IranSoftjoWebPackage\IranSoftjo.Library\IranSoftjo.Common\obj\Debug\IranSoftjo.Common.csprojResolveAssemblyReference.cache
+G:\TFS\IranSoftjoWebPackage\IranSoftjo.Library\IranSoftjo.Common\bin\Debug\IranSoftjo.Common.dll
+G:\TFS\IranSoftjoWebPackage\IranSoftjo.Library\IranSoftjo.Common\bin\Debug\IranSoftjo.Common.pdb
+G:\TFS\IranSoftjoWebPackage\IranSoftjo.Library\IranSoftjo.Common\bin\Debug\System.Web.Http.WebHost.dll
+G:\TFS\IranSoftjoWebPackage\IranSoftjo.Library\IranSoftjo.Common\bin\Debug\System.Web.Http.dll
+G:\TFS\IranSoftjoWebPackage\IranSoftjo.Library\IranSoftjo.Common\bin\Debug\System.Net.Http.Formatting.dll
+G:\TFS\IranSoftjoWebPackage\IranSoftjo.Library\IranSoftjo.Common\bin\Debug\Newtonsoft.Json.dll
+G:\TFS\IranSoftjoWebPackage\IranSoftjo.Library\IranSoftjo.Common\bin\Debug\System.Web.Http.WebHost.xml
+G:\TFS\IranSoftjoWebPackage\IranSoftjo.Library\IranSoftjo.Common\bin\Debug\System.Web.Http.xml
+G:\TFS\IranSoftjoWebPackage\IranSoftjo.Library\IranSoftjo.Common\bin\Debug\System.Net.Http.Formatting.xml
+G:\TFS\IranSoftjoWebPackage\IranSoftjo.Library\IranSoftjo.Common\obj\Debug\IranSoftjo.Common.csprojResolveAssemblyReference.cache
+G:\TFS\IranSoftjoWebPackage\IranSoftjo.Library\IranSoftjo.Common\obj\Debug\IranSoftjo.Common.dll
+G:\TFS\IranSoftjoWebPackage\IranSoftjo.Library\IranSoftjo.Common\obj\Debug\IranSoftjo.Common.pdb
+G:\TFS\IranSoftjoWebAndroid\IranSoftjo.Library\IranSoftjo.Common\bin\Debug\IranSoftjo.Common.dll
+G:\TFS\IranSoftjoWebAndroid\IranSoftjo.Library\IranSoftjo.Common\bin\Debug\IranSoftjo.Common.pdb
+G:\TFS\IranSoftjoWebAndroid\IranSoftjo.Library\IranSoftjo.Common\bin\Debug\System.Web.Http.WebHost.dll
+G:\TFS\IranSoftjoWebAndroid\IranSoftjo.Library\IranSoftjo.Common\bin\Debug\System.Web.Http.dll
+G:\TFS\IranSoftjoWebAndroid\IranSoftjo.Library\IranSoftjo.Common\bin\Debug\System.Net.Http.Formatting.dll
+G:\TFS\IranSoftjoWebAndroid\IranSoftjo.Library\IranSoftjo.Common\bin\Debug\Newtonsoft.Json.dll
+G:\TFS\IranSoftjoWebAndroid\IranSoftjo.Library\IranSoftjo.Common\bin\Debug\System.Web.Http.WebHost.xml
+G:\TFS\IranSoftjoWebAndroid\IranSoftjo.Library\IranSoftjo.Common\bin\Debug\System.Web.Http.xml
+G:\TFS\IranSoftjoWebAndroid\IranSoftjo.Library\IranSoftjo.Common\bin\Debug\System.Net.Http.Formatting.xml
+G:\TFS\IranSoftjoWebAndroid\IranSoftjo.Library\IranSoftjo.Common\obj\Debug\IranSoftjo.Common.csprojResolveAssemblyReference.cache
+G:\TFS\IranSoftjoWebAndroid\IranSoftjo.Library\IranSoftjo.Common\obj\Debug\IranSoftjo.Common.dll
+G:\TFS\IranSoftjoWebAndroid\IranSoftjo.Library\IranSoftjo.Common\obj\Debug\IranSoftjo.Common.pdb
+G:\TFS\IranSoftjoWebAndroid\IranSoftjo.Library\IranSoftjo.Common\bin\Debug\System.Web.Mvc.dll
+G:\TFS\IranSoftjoWebAndroid\IranSoftjo.Library\IranSoftjo.Common\bin\Debug\Microsoft.Web.Infrastructure.dll
+G:\TFS\IranSoftjoWebAndroid\IranSoftjo.Library\IranSoftjo.Common\bin\Debug\System.Web.Razor.dll
+G:\TFS\IranSoftjoWebAndroid\IranSoftjo.Library\IranSoftjo.Common\bin\Debug\System.Web.WebPages.Razor.dll
+G:\TFS\IranSoftjoWebAndroid\IranSoftjo.Library\IranSoftjo.Common\bin\Debug\System.Web.WebPages.dll
+G:\TFS\IranSoftjoWebAndroid\IranSoftjo.Library\IranSoftjo.Common\bin\Debug\System.Web.WebPages.Deployment.dll
+G:\TFS\IranSoftjoWebAndroid\IranSoftjo.Library\IranSoftjo.Common\bin\Debug\System.Web.Mvc.xml
+G:\TFS\IranSoftjoWebAndroid\IranSoftjo.Library\IranSoftjo.Common\bin\Debug\Microsoft.Web.Infrastructure.xml
+G:\TFS\IranSoftjoWebAndroid\IranSoftjo.Library\IranSoftjo.Common\bin\Debug\System.Web.Razor.xml
+G:\TFS\IranSoftjoWebAndroid\IranSoftjo.Library\IranSoftjo.Common\bin\Debug\System.Web.WebPages.Razor.xml
+G:\TFS\IranSoftjoWebAndroid\IranSoftjo.Library\IranSoftjo.Common\bin\Debug\System.Web.WebPages.xml
+G:\TFS\IranSoftjoWebAndroid\IranSoftjo.Library\IranSoftjo.Common\bin\Debug\System.Web.WebPages.Deployment.xml
+E:\TFS\IranSoftjoWebAndroid\IranSoftjo.Library\IranSoftjo.Common\bin\Debug\IranSoftjo.Common.dll
+E:\TFS\IranSoftjoWebAndroid\IranSoftjo.Library\IranSoftjo.Common\bin\Debug\IranSoftjo.Common.pdb
+E:\TFS\IranSoftjoWebAndroid\IranSoftjo.Library\IranSoftjo.Common\bin\Debug\System.Web.Http.WebHost.dll
+E:\TFS\IranSoftjoWebAndroid\IranSoftjo.Library\IranSoftjo.Common\bin\Debug\System.Web.Mvc.dll
+E:\TFS\IranSoftjoWebAndroid\IranSoftjo.Library\IranSoftjo.Common\bin\Debug\System.Web.Http.dll
+E:\TFS\IranSoftjoWebAndroid\IranSoftjo.Library\IranSoftjo.Common\bin\Debug\System.Net.Http.Formatting.dll
+E:\TFS\IranSoftjoWebAndroid\IranSoftjo.Library\IranSoftjo.Common\bin\Debug\Microsoft.Web.Infrastructure.dll
+E:\TFS\IranSoftjoWebAndroid\IranSoftjo.Library\IranSoftjo.Common\bin\Debug\System.Web.Razor.dll
+E:\TFS\IranSoftjoWebAndroid\IranSoftjo.Library\IranSoftjo.Common\bin\Debug\System.Web.WebPages.Razor.dll
+E:\TFS\IranSoftjoWebAndroid\IranSoftjo.Library\IranSoftjo.Common\bin\Debug\System.Web.WebPages.dll
+E:\TFS\IranSoftjoWebAndroid\IranSoftjo.Library\IranSoftjo.Common\bin\Debug\System.Web.WebPages.Deployment.dll
+E:\TFS\IranSoftjoWebAndroid\IranSoftjo.Library\IranSoftjo.Common\obj\Debug\IranSoftjo.Common.csprojResolveAssemblyReference.cache
+E:\TFS\IranSoftjoWebAndroid\IranSoftjo.Library\IranSoftjo.Common\obj\Debug\IranSoftjo.Common.dll
+E:\TFS\IranSoftjoWebAndroid\IranSoftjo.Library\IranSoftjo.Common\obj\Debug\IranSoftjo.Common.pdb
+E:\TFS\IranSoftjoISC\IranSoftjo.Library\IranSoftjo.Common\bin\Debug\IranSoftjo.Common.dll
+E:\TFS\IranSoftjoISC\IranSoftjo.Library\IranSoftjo.Common\bin\Debug\IranSoftjo.Common.pdb
+E:\TFS\IranSoftjoISC\IranSoftjo.Library\IranSoftjo.Common\bin\Debug\System.Web.Http.WebHost.dll
+E:\TFS\IranSoftjoISC\IranSoftjo.Library\IranSoftjo.Common\bin\Debug\System.Web.Mvc.dll
+E:\TFS\IranSoftjoISC\IranSoftjo.Library\IranSoftjo.Common\bin\Debug\System.Web.Http.dll
+E:\TFS\IranSoftjoISC\IranSoftjo.Library\IranSoftjo.Common\bin\Debug\System.Net.Http.Formatting.dll
+E:\TFS\IranSoftjoISC\IranSoftjo.Library\IranSoftjo.Common\bin\Debug\Microsoft.Web.Infrastructure.dll
+E:\TFS\IranSoftjoISC\IranSoftjo.Library\IranSoftjo.Common\bin\Debug\System.Web.Razor.dll
+E:\TFS\IranSoftjoISC\IranSoftjo.Library\IranSoftjo.Common\bin\Debug\System.Web.WebPages.Razor.dll
+E:\TFS\IranSoftjoISC\IranSoftjo.Library\IranSoftjo.Common\bin\Debug\System.Web.WebPages.dll
+E:\TFS\IranSoftjoISC\IranSoftjo.Library\IranSoftjo.Common\bin\Debug\System.Web.WebPages.Deployment.dll
+E:\TFS\IranSoftjoISC\IranSoftjo.Library\IranSoftjo.Common\bin\Debug\System.Web.Http.WebHost.xml
+E:\TFS\IranSoftjoISC\IranSoftjo.Library\IranSoftjo.Common\bin\Debug\System.Web.Mvc.xml
+E:\TFS\IranSoftjoISC\IranSoftjo.Library\IranSoftjo.Common\bin\Debug\System.Web.Http.xml
+E:\TFS\IranSoftjoISC\IranSoftjo.Library\IranSoftjo.Common\bin\Debug\System.Net.Http.Formatting.xml
+E:\TFS\IranSoftjoISC\IranSoftjo.Library\IranSoftjo.Common\bin\Debug\Microsoft.Web.Infrastructure.xml
+E:\TFS\IranSoftjoISC\IranSoftjo.Library\IranSoftjo.Common\bin\Debug\System.Web.Razor.xml
+E:\TFS\IranSoftjoISC\IranSoftjo.Library\IranSoftjo.Common\bin\Debug\System.Web.WebPages.Razor.xml
+E:\TFS\IranSoftjoISC\IranSoftjo.Library\IranSoftjo.Common\bin\Debug\System.Web.WebPages.xml
+E:\TFS\IranSoftjoISC\IranSoftjo.Library\IranSoftjo.Common\bin\Debug\System.Web.WebPages.Deployment.xml
+E:\TFS\IranSoftjoISC\IranSoftjo.Library\IranSoftjo.Common\obj\Debug\IranSoftjo.Common.csprojResolveAssemblyReference.cache
+E:\TFS\IranSoftjoISC\IranSoftjo.Library\IranSoftjo.Common\obj\Debug\IranSoftjo.Common.dll
+E:\TFS\IranSoftjoISC\IranSoftjo.Library\IranSoftjo.Common\obj\Debug\IranSoftjo.Common.pdb
+I:\TFS\IranSoftjoISC\IranSoftjo.Library\IranSoftjo.Common\bin\Debug\IranSoftjo.Common.dll
+I:\TFS\IranSoftjoISC\IranSoftjo.Library\IranSoftjo.Common\bin\Debug\IranSoftjo.Common.pdb
+I:\TFS\IranSoftjoISC\IranSoftjo.Library\IranSoftjo.Common\bin\Debug\System.Web.Http.WebHost.dll
+I:\TFS\IranSoftjoISC\IranSoftjo.Library\IranSoftjo.Common\bin\Debug\System.Web.Http.dll
+I:\TFS\IranSoftjoISC\IranSoftjo.Library\IranSoftjo.Common\bin\Debug\System.Net.Http.Formatting.dll
+I:\TFS\IranSoftjoISC\IranSoftjo.Library\IranSoftjo.Common\bin\Debug\Microsoft.Web.Infrastructure.dll
+I:\TFS\IranSoftjoISC\IranSoftjo.Library\IranSoftjo.Common\bin\Debug\System.Web.Razor.dll
+I:\TFS\IranSoftjoISC\IranSoftjo.Library\IranSoftjo.Common\bin\Debug\System.Web.WebPages.Razor.dll
+I:\TFS\IranSoftjoISC\IranSoftjo.Library\IranSoftjo.Common\bin\Debug\System.Web.WebPages.dll
+I:\TFS\IranSoftjoISC\IranSoftjo.Library\IranSoftjo.Common\bin\Debug\System.Web.WebPages.Deployment.dll
+I:\TFS\IranSoftjoISC\IranSoftjo.Library\IranSoftjo.Common\obj\Debug\IranSoftjo.Common.csprojResolveAssemblyReference.cache
+I:\TFS\IranSoftjoISC\IranSoftjo.Library\IranSoftjo.Common\obj\Debug\IranSoftjo.Common.dll
+I:\TFS\IranSoftjoISC\IranSoftjo.Library\IranSoftjo.Common\obj\Debug\IranSoftjo.Common.pdb
+E:\IranSoftjoISC\IranSoftjoISC\IranSoftjo.Library\IranSoftjo.Common\bin\Debug\IranSoftjo.Common.dll
+E:\IranSoftjoISC\IranSoftjoISC\IranSoftjo.Library\IranSoftjo.Common\bin\Debug\IranSoftjo.Common.pdb
+E:\IranSoftjoISC\IranSoftjoISC\IranSoftjo.Library\IranSoftjo.Common\bin\Debug\System.Web.Http.dll
+E:\IranSoftjoISC\IranSoftjoISC\IranSoftjo.Library\IranSoftjo.Common\bin\Debug\System.Net.Http.Formatting.dll
+E:\IranSoftjoISC\IranSoftjoISC\IranSoftjo.Library\IranSoftjo.Common\bin\Debug\Microsoft.Web.Infrastructure.dll
+E:\IranSoftjoISC\IranSoftjoISC\IranSoftjo.Library\IranSoftjo.Common\bin\Debug\System.Web.Razor.dll
+E:\IranSoftjoISC\IranSoftjoISC\IranSoftjo.Library\IranSoftjo.Common\bin\Debug\System.Web.WebPages.Razor.dll
+E:\IranSoftjoISC\IranSoftjoISC\IranSoftjo.Library\IranSoftjo.Common\bin\Debug\System.Web.WebPages.dll
+E:\IranSoftjoISC\IranSoftjoISC\IranSoftjo.Library\IranSoftjo.Common\bin\Debug\System.Web.WebPages.Deployment.dll
+E:\IranSoftjoISC\IranSoftjoISC\IranSoftjo.Library\IranSoftjo.Common\bin\Debug\System.Web.Http.WebHost.xml
+E:\IranSoftjoISC\IranSoftjoISC\IranSoftjo.Library\IranSoftjo.Common\bin\Debug\System.Web.Http.xml
+E:\IranSoftjoISC\IranSoftjoISC\IranSoftjo.Library\IranSoftjo.Common\bin\Debug\System.Net.Http.Formatting.xml
+E:\IranSoftjoISC\IranSoftjoISC\IranSoftjo.Library\IranSoftjo.Common\bin\Debug\Microsoft.Web.Infrastructure.xml
+E:\IranSoftjoISC\IranSoftjoISC\IranSoftjo.Library\IranSoftjo.Common\obj\Debug\IranSoftjo.Common.csprojResolveAssemblyReference.cache
+E:\IranSoftjoISC\IranSoftjoISC\IranSoftjo.Library\IranSoftjo.Common\obj\Debug\IranSoftjo.Common.dll
+E:\IranSoftjoISC\IranSoftjoISC\IranSoftjo.Library\IranSoftjo.Common\obj\Debug\IranSoftjo.Common.pdb
+C:\Users\mostafa.abedi\Desktop\AjoriNew\IranSoftjoISC WithExport\IranSoftjoISC\IranSoftjo.Library\IranSoftjo.Common\bin\Debug\IranSoftjo.Common.dll
+C:\Users\mostafa.abedi\Desktop\AjoriNew\IranSoftjoISC WithExport\IranSoftjoISC\IranSoftjo.Library\IranSoftjo.Common\bin\Debug\IranSoftjo.Common.pdb
+C:\Users\mostafa.abedi\Desktop\AjoriNew\IranSoftjoISC WithExport\IranSoftjoISC\IranSoftjo.Library\IranSoftjo.Common\bin\Debug\System.Web.Http.dll
+C:\Users\mostafa.abedi\Desktop\AjoriNew\IranSoftjoISC WithExport\IranSoftjoISC\IranSoftjo.Library\IranSoftjo.Common\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\mostafa.abedi\Desktop\AjoriNew\IranSoftjoISC WithExport\IranSoftjoISC\IranSoftjo.Library\IranSoftjo.Common\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\mostafa.abedi\Desktop\AjoriNew\IranSoftjoISC WithExport\IranSoftjoISC\IranSoftjo.Library\IranSoftjo.Common\bin\Debug\System.Web.Razor.dll
+C:\Users\mostafa.abedi\Desktop\AjoriNew\IranSoftjoISC WithExport\IranSoftjoISC\IranSoftjo.Library\IranSoftjo.Common\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\mostafa.abedi\Desktop\AjoriNew\IranSoftjoISC WithExport\IranSoftjoISC\IranSoftjo.Library\IranSoftjo.Common\bin\Debug\System.Web.WebPages.dll
+C:\Users\mostafa.abedi\Desktop\AjoriNew\IranSoftjoISC WithExport\IranSoftjoISC\IranSoftjo.Library\IranSoftjo.Common\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\mostafa.abedi\Desktop\AjoriNew\IranSoftjoISC WithExport\IranSoftjoISC\IranSoftjo.Library\IranSoftjo.Common\bin\Debug\System.Web.Http.WebHost.xml
+C:\Users\mostafa.abedi\Desktop\AjoriNew\IranSoftjoISC WithExport\IranSoftjoISC\IranSoftjo.Library\IranSoftjo.Common\bin\Debug\System.Web.Http.xml
+C:\Users\mostafa.abedi\Desktop\AjoriNew\IranSoftjoISC WithExport\IranSoftjoISC\IranSoftjo.Library\IranSoftjo.Common\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\mostafa.abedi\Desktop\AjoriNew\IranSoftjoISC WithExport\IranSoftjoISC\IranSoftjo.Library\IranSoftjo.Common\bin\Debug\Microsoft.Web.Infrastructure.xml
+C:\Users\mostafa.abedi\Desktop\AjoriNew\IranSoftjoISC WithExport\IranSoftjoISC\IranSoftjo.Library\IranSoftjo.Common\obj\Debug\IranSoftjo.Common.csprojResolveAssemblyReference.cache
+C:\Users\mostafa.abedi\Desktop\AjoriNew\IranSoftjoISC WithExport\IranSoftjoISC\IranSoftjo.Library\IranSoftjo.Common\obj\Debug\IranSoftjo.Common.dll
+C:\Users\mostafa.abedi\Desktop\AjoriNew\IranSoftjoISC WithExport\IranSoftjoISC\IranSoftjo.Library\IranSoftjo.Common\obj\Debug\IranSoftjo.Common.pdb
+E:\AjoriNew\IranSoftjoISC WithExport\IranSoftjoISC\IranSoftjo.Library\IranSoftjo.Common\bin\Debug\IranSoftjo.Common.dll
+E:\AjoriNew\IranSoftjoISC WithExport\IranSoftjoISC\IranSoftjo.Library\IranSoftjo.Common\bin\Debug\IranSoftjo.Common.pdb
+E:\AjoriNew\IranSoftjoISC WithExport\IranSoftjoISC\IranSoftjo.Library\IranSoftjo.Common\bin\Debug\System.Web.Http.dll
+E:\AjoriNew\IranSoftjoISC WithExport\IranSoftjoISC\IranSoftjo.Library\IranSoftjo.Common\bin\Debug\System.Net.Http.Formatting.dll
+E:\AjoriNew\IranSoftjoISC WithExport\IranSoftjoISC\IranSoftjo.Library\IranSoftjo.Common\bin\Debug\Microsoft.Web.Infrastructure.dll
+E:\AjoriNew\IranSoftjoISC WithExport\IranSoftjoISC\IranSoftjo.Library\IranSoftjo.Common\bin\Debug\System.Web.Razor.dll
+E:\AjoriNew\IranSoftjoISC WithExport\IranSoftjoISC\IranSoftjo.Library\IranSoftjo.Common\bin\Debug\System.Web.WebPages.Razor.dll
+E:\AjoriNew\IranSoftjoISC WithExport\IranSoftjoISC\IranSoftjo.Library\IranSoftjo.Common\bin\Debug\System.Web.WebPages.dll
+E:\AjoriNew\IranSoftjoISC WithExport\IranSoftjoISC\IranSoftjo.Library\IranSoftjo.Common\bin\Debug\System.Web.WebPages.Deployment.dll
+E:\AjoriNew\IranSoftjoISC WithExport\IranSoftjoISC\IranSoftjo.Library\IranSoftjo.Common\bin\Debug\System.Web.Http.WebHost.xml
+E:\AjoriNew\IranSoftjoISC WithExport\IranSoftjoISC\IranSoftjo.Library\IranSoftjo.Common\bin\Debug\System.Web.Http.xml
+E:\AjoriNew\IranSoftjoISC WithExport\IranSoftjoISC\IranSoftjo.Library\IranSoftjo.Common\bin\Debug\System.Net.Http.Formatting.xml
+E:\AjoriNew\IranSoftjoISC WithExport\IranSoftjoISC\IranSoftjo.Library\IranSoftjo.Common\bin\Debug\Microsoft.Web.Infrastructure.xml
+E:\AjoriNew\IranSoftjoISC WithExport\IranSoftjoISC\IranSoftjo.Library\IranSoftjo.Common\obj\Debug\IranSoftjo.Common.csprojResolveAssemblyReference.cache
+E:\AjoriNew\IranSoftjoISC WithExport\IranSoftjoISC\IranSoftjo.Library\IranSoftjo.Common\obj\Debug\IranSoftjo.Common.dll
+E:\AjoriNew\IranSoftjoISC WithExport\IranSoftjoISC\IranSoftjo.Library\IranSoftjo.Common\obj\Debug\IranSoftjo.Common.pdb

@@ -1,0 +1,365 @@
+G:\TFS_MostafaAbedi\TFSPROJECTMOSTAFABEDI\IranSoftjoWebPackage\Kendo.Mvc\Kendo.Mvc\bin\Debug\Kendo.Mvc.dll
+G:\TFS_MostafaAbedi\TFSPROJECTMOSTAFABEDI\IranSoftjoWebPackage\Kendo.Mvc\Kendo.Mvc\bin\Debug\Kendo.Mvc.pdb
+G:\TFS_MostafaAbedi\TFSPROJECTMOSTAFABEDI\IranSoftjoWebPackage\Kendo.Mvc\Kendo.Mvc\bin\Debug\bg-BG\Kendo.Mvc.resources.dll
+G:\TFS_MostafaAbedi\TFSPROJECTMOSTAFABEDI\IranSoftjoWebPackage\Kendo.Mvc\Kendo.Mvc\bin\Debug\cs-CZ\Kendo.Mvc.resources.dll
+G:\TFS_MostafaAbedi\TFSPROJECTMOSTAFABEDI\IranSoftjoWebPackage\Kendo.Mvc\Kendo.Mvc\bin\Debug\da-DK\Kendo.Mvc.resources.dll
+G:\TFS_MostafaAbedi\TFSPROJECTMOSTAFABEDI\IranSoftjoWebPackage\Kendo.Mvc\Kendo.Mvc\bin\Debug\de-DE\Kendo.Mvc.resources.dll
+G:\TFS_MostafaAbedi\TFSPROJECTMOSTAFABEDI\IranSoftjoWebPackage\Kendo.Mvc\Kendo.Mvc\bin\Debug\es-ES\Kendo.Mvc.resources.dll
+G:\TFS_MostafaAbedi\TFSPROJECTMOSTAFABEDI\IranSoftjoWebPackage\Kendo.Mvc\Kendo.Mvc\bin\Debug\fr-FR\Kendo.Mvc.resources.dll
+G:\TFS_MostafaAbedi\TFSPROJECTMOSTAFABEDI\IranSoftjoWebPackage\Kendo.Mvc\Kendo.Mvc\bin\Debug\it-IT\Kendo.Mvc.resources.dll
+G:\TFS_MostafaAbedi\TFSPROJECTMOSTAFABEDI\IranSoftjoWebPackage\Kendo.Mvc\Kendo.Mvc\bin\Debug\nl-NL\Kendo.Mvc.resources.dll
+G:\TFS_MostafaAbedi\TFSPROJECTMOSTAFABEDI\IranSoftjoWebPackage\Kendo.Mvc\Kendo.Mvc\bin\Debug\pl-PL\Kendo.Mvc.resources.dll
+G:\TFS_MostafaAbedi\TFSPROJECTMOSTAFABEDI\IranSoftjoWebPackage\Kendo.Mvc\Kendo.Mvc\bin\Debug\pt-BR\Kendo.Mvc.resources.dll
+G:\TFS_MostafaAbedi\TFSPROJECTMOSTAFABEDI\IranSoftjoWebPackage\Kendo.Mvc\Kendo.Mvc\bin\Debug\pt-PT\Kendo.Mvc.resources.dll
+G:\TFS_MostafaAbedi\TFSPROJECTMOSTAFABEDI\IranSoftjoWebPackage\Kendo.Mvc\Kendo.Mvc\bin\Debug\ro-RO\Kendo.Mvc.resources.dll
+G:\TFS_MostafaAbedi\TFSPROJECTMOSTAFABEDI\IranSoftjoWebPackage\Kendo.Mvc\Kendo.Mvc\bin\Debug\ru-RU\Kendo.Mvc.resources.dll
+G:\TFS_MostafaAbedi\TFSPROJECTMOSTAFABEDI\IranSoftjoWebPackage\Kendo.Mvc\Kendo.Mvc\bin\Debug\sv-SE\Kendo.Mvc.resources.dll
+G:\TFS_MostafaAbedi\TFSPROJECTMOSTAFABEDI\IranSoftjoWebPackage\Kendo.Mvc\Kendo.Mvc\bin\Debug\tr-TR\Kendo.Mvc.resources.dll
+G:\TFS_MostafaAbedi\TFSPROJECTMOSTAFABEDI\IranSoftjoWebPackage\Kendo.Mvc\Kendo.Mvc\bin\Debug\uk-UA\Kendo.Mvc.resources.dll
+G:\TFS_MostafaAbedi\TFSPROJECTMOSTAFABEDI\IranSoftjoWebPackage\Kendo.Mvc\Kendo.Mvc\bin\Debug\zh-CN\Kendo.Mvc.resources.dll
+G:\TFS_MostafaAbedi\TFSPROJECTMOSTAFABEDI\IranSoftjoWebPackage\Kendo.Mvc\Kendo.Mvc\bin\Debug\System.Web.Http.dll
+G:\TFS_MostafaAbedi\TFSPROJECTMOSTAFABEDI\IranSoftjoWebPackage\Kendo.Mvc\Kendo.Mvc\bin\Debug\System.Web.Mvc.dll
+G:\TFS_MostafaAbedi\TFSPROJECTMOSTAFABEDI\IranSoftjoWebPackage\Kendo.Mvc\Kendo.Mvc\bin\Debug\System.Web.Razor.dll
+G:\TFS_MostafaAbedi\TFSPROJECTMOSTAFABEDI\IranSoftjoWebPackage\Kendo.Mvc\Kendo.Mvc\bin\Debug\System.Web.WebPages.dll
+G:\TFS_MostafaAbedi\TFSPROJECTMOSTAFABEDI\IranSoftjoWebPackage\Kendo.Mvc\Kendo.Mvc\bin\Debug\System.Web.WebPages.Razor.dll
+G:\TFS_MostafaAbedi\TFSPROJECTMOSTAFABEDI\IranSoftjoWebPackage\Kendo.Mvc\Kendo.Mvc\bin\Debug\System.Net.Http.dll
+G:\TFS_MostafaAbedi\TFSPROJECTMOSTAFABEDI\IranSoftjoWebPackage\Kendo.Mvc\Kendo.Mvc\bin\Debug\System.Net.Http.Formatting.dll
+G:\TFS_MostafaAbedi\TFSPROJECTMOSTAFABEDI\IranSoftjoWebPackage\Kendo.Mvc\Kendo.Mvc\bin\Debug\Newtonsoft.Json.dll
+G:\TFS_MostafaAbedi\TFSPROJECTMOSTAFABEDI\IranSoftjoWebPackage\Kendo.Mvc\Kendo.Mvc\bin\Debug\System.Web.Http.xml
+G:\TFS_MostafaAbedi\TFSPROJECTMOSTAFABEDI\IranSoftjoWebPackage\Kendo.Mvc\Kendo.Mvc\bin\Debug\System.Web.Mvc.xml
+G:\TFS_MostafaAbedi\TFSPROJECTMOSTAFABEDI\IranSoftjoWebPackage\Kendo.Mvc\Kendo.Mvc\bin\Debug\System.Web.Razor.xml
+G:\TFS_MostafaAbedi\TFSPROJECTMOSTAFABEDI\IranSoftjoWebPackage\Kendo.Mvc\Kendo.Mvc\bin\Debug\System.Web.WebPages.xml
+G:\TFS_MostafaAbedi\TFSPROJECTMOSTAFABEDI\IranSoftjoWebPackage\Kendo.Mvc\Kendo.Mvc\bin\Debug\System.Web.WebPages.Razor.xml
+G:\TFS_MostafaAbedi\TFSPROJECTMOSTAFABEDI\IranSoftjoWebPackage\Kendo.Mvc\Kendo.Mvc\bin\Debug\System.Net.Http.xml
+G:\TFS_MostafaAbedi\TFSPROJECTMOSTAFABEDI\IranSoftjoWebPackage\Kendo.Mvc\Kendo.Mvc\bin\Debug\System.Net.Http.Formatting.xml
+G:\TFS_MostafaAbedi\TFSPROJECTMOSTAFABEDI\IranSoftjoWebPackage\Kendo.Mvc\Kendo.Mvc\obj\Debug\Kendo.Mvc.Resources.Messages.resources
+G:\TFS_MostafaAbedi\TFSPROJECTMOSTAFABEDI\IranSoftjoWebPackage\Kendo.Mvc\Kendo.Mvc\obj\Debug\Kendo.Mvc.Resources.Exceptions.resources
+G:\TFS_MostafaAbedi\TFSPROJECTMOSTAFABEDI\IranSoftjoWebPackage\Kendo.Mvc\Kendo.Mvc\obj\Debug\Kendo.Mvc.Resources.Messages.bg-BG.resources
+G:\TFS_MostafaAbedi\TFSPROJECTMOSTAFABEDI\IranSoftjoWebPackage\Kendo.Mvc\Kendo.Mvc\obj\Debug\Kendo.Mvc.Resources.Messages.cs-CZ.resources
+G:\TFS_MostafaAbedi\TFSPROJECTMOSTAFABEDI\IranSoftjoWebPackage\Kendo.Mvc\Kendo.Mvc\obj\Debug\Kendo.Mvc.Resources.Messages.da-DK.resources
+G:\TFS_MostafaAbedi\TFSPROJECTMOSTAFABEDI\IranSoftjoWebPackage\Kendo.Mvc\Kendo.Mvc\obj\Debug\Kendo.Mvc.Resources.Messages.de-DE.resources
+G:\TFS_MostafaAbedi\TFSPROJECTMOSTAFABEDI\IranSoftjoWebPackage\Kendo.Mvc\Kendo.Mvc\obj\Debug\Kendo.Mvc.Resources.Messages.es-ES.resources
+G:\TFS_MostafaAbedi\TFSPROJECTMOSTAFABEDI\IranSoftjoWebPackage\Kendo.Mvc\Kendo.Mvc\obj\Debug\Kendo.Mvc.Resources.Messages.fr-FR.resources
+G:\TFS_MostafaAbedi\TFSPROJECTMOSTAFABEDI\IranSoftjoWebPackage\Kendo.Mvc\Kendo.Mvc\obj\Debug\Kendo.Mvc.Resources.Messages.it-IT.resources
+G:\TFS_MostafaAbedi\TFSPROJECTMOSTAFABEDI\IranSoftjoWebPackage\Kendo.Mvc\Kendo.Mvc\obj\Debug\Kendo.Mvc.Resources.Messages.nl-NL.resources
+G:\TFS_MostafaAbedi\TFSPROJECTMOSTAFABEDI\IranSoftjoWebPackage\Kendo.Mvc\Kendo.Mvc\obj\Debug\Kendo.Mvc.Resources.Messages.pl-PL.resources
+G:\TFS_MostafaAbedi\TFSPROJECTMOSTAFABEDI\IranSoftjoWebPackage\Kendo.Mvc\Kendo.Mvc\obj\Debug\Kendo.Mvc.Resources.Messages.pt-BR.resources
+G:\TFS_MostafaAbedi\TFSPROJECTMOSTAFABEDI\IranSoftjoWebPackage\Kendo.Mvc\Kendo.Mvc\obj\Debug\Kendo.Mvc.Resources.Messages.pt-PT.resources
+G:\TFS_MostafaAbedi\TFSPROJECTMOSTAFABEDI\IranSoftjoWebPackage\Kendo.Mvc\Kendo.Mvc\obj\Debug\Kendo.Mvc.Resources.Messages.ro-RO.resources
+G:\TFS_MostafaAbedi\TFSPROJECTMOSTAFABEDI\IranSoftjoWebPackage\Kendo.Mvc\Kendo.Mvc\obj\Debug\Kendo.Mvc.Resources.Messages.ru-RU.resources
+G:\TFS_MostafaAbedi\TFSPROJECTMOSTAFABEDI\IranSoftjoWebPackage\Kendo.Mvc\Kendo.Mvc\obj\Debug\Kendo.Mvc.Resources.Messages.sv-SE.resources
+G:\TFS_MostafaAbedi\TFSPROJECTMOSTAFABEDI\IranSoftjoWebPackage\Kendo.Mvc\Kendo.Mvc\obj\Debug\Kendo.Mvc.Resources.Messages.tr-TR.resources
+G:\TFS_MostafaAbedi\TFSPROJECTMOSTAFABEDI\IranSoftjoWebPackage\Kendo.Mvc\Kendo.Mvc\obj\Debug\Kendo.Mvc.Resources.Messages.uk-UA.resources
+G:\TFS_MostafaAbedi\TFSPROJECTMOSTAFABEDI\IranSoftjoWebPackage\Kendo.Mvc\Kendo.Mvc\obj\Debug\Kendo.Mvc.Resources.Messages.zh-CN.resources
+G:\TFS_MostafaAbedi\TFSPROJECTMOSTAFABEDI\IranSoftjoWebPackage\Kendo.Mvc\Kendo.Mvc\obj\Debug\Kendo.Mvc.csproj.GenerateResource.Cache
+G:\TFS_MostafaAbedi\TFSPROJECTMOSTAFABEDI\IranSoftjoWebPackage\Kendo.Mvc\Kendo.Mvc\obj\Debug\bg-BG\Kendo.Mvc.resources.dll
+G:\TFS_MostafaAbedi\TFSPROJECTMOSTAFABEDI\IranSoftjoWebPackage\Kendo.Mvc\Kendo.Mvc\obj\Debug\cs-CZ\Kendo.Mvc.resources.dll
+G:\TFS_MostafaAbedi\TFSPROJECTMOSTAFABEDI\IranSoftjoWebPackage\Kendo.Mvc\Kendo.Mvc\obj\Debug\da-DK\Kendo.Mvc.resources.dll
+G:\TFS_MostafaAbedi\TFSPROJECTMOSTAFABEDI\IranSoftjoWebPackage\Kendo.Mvc\Kendo.Mvc\obj\Debug\de-DE\Kendo.Mvc.resources.dll
+G:\TFS_MostafaAbedi\TFSPROJECTMOSTAFABEDI\IranSoftjoWebPackage\Kendo.Mvc\Kendo.Mvc\obj\Debug\es-ES\Kendo.Mvc.resources.dll
+G:\TFS_MostafaAbedi\TFSPROJECTMOSTAFABEDI\IranSoftjoWebPackage\Kendo.Mvc\Kendo.Mvc\obj\Debug\fr-FR\Kendo.Mvc.resources.dll
+G:\TFS_MostafaAbedi\TFSPROJECTMOSTAFABEDI\IranSoftjoWebPackage\Kendo.Mvc\Kendo.Mvc\obj\Debug\it-IT\Kendo.Mvc.resources.dll
+G:\TFS_MostafaAbedi\TFSPROJECTMOSTAFABEDI\IranSoftjoWebPackage\Kendo.Mvc\Kendo.Mvc\obj\Debug\nl-NL\Kendo.Mvc.resources.dll
+G:\TFS_MostafaAbedi\TFSPROJECTMOSTAFABEDI\IranSoftjoWebPackage\Kendo.Mvc\Kendo.Mvc\obj\Debug\pl-PL\Kendo.Mvc.resources.dll
+G:\TFS_MostafaAbedi\TFSPROJECTMOSTAFABEDI\IranSoftjoWebPackage\Kendo.Mvc\Kendo.Mvc\obj\Debug\pt-BR\Kendo.Mvc.resources.dll
+G:\TFS_MostafaAbedi\TFSPROJECTMOSTAFABEDI\IranSoftjoWebPackage\Kendo.Mvc\Kendo.Mvc\obj\Debug\pt-PT\Kendo.Mvc.resources.dll
+G:\TFS_MostafaAbedi\TFSPROJECTMOSTAFABEDI\IranSoftjoWebPackage\Kendo.Mvc\Kendo.Mvc\obj\Debug\ro-RO\Kendo.Mvc.resources.dll
+G:\TFS_MostafaAbedi\TFSPROJECTMOSTAFABEDI\IranSoftjoWebPackage\Kendo.Mvc\Kendo.Mvc\obj\Debug\ru-RU\Kendo.Mvc.resources.dll
+G:\TFS_MostafaAbedi\TFSPROJECTMOSTAFABEDI\IranSoftjoWebPackage\Kendo.Mvc\Kendo.Mvc\obj\Debug\sv-SE\Kendo.Mvc.resources.dll
+G:\TFS_MostafaAbedi\TFSPROJECTMOSTAFABEDI\IranSoftjoWebPackage\Kendo.Mvc\Kendo.Mvc\obj\Debug\tr-TR\Kendo.Mvc.resources.dll
+G:\TFS_MostafaAbedi\TFSPROJECTMOSTAFABEDI\IranSoftjoWebPackage\Kendo.Mvc\Kendo.Mvc\obj\Debug\uk-UA\Kendo.Mvc.resources.dll
+G:\TFS_MostafaAbedi\TFSPROJECTMOSTAFABEDI\IranSoftjoWebPackage\Kendo.Mvc\Kendo.Mvc\obj\Debug\zh-CN\Kendo.Mvc.resources.dll
+G:\TFS_MostafaAbedi\TFSPROJECTMOSTAFABEDI\IranSoftjoWebPackage\Kendo.Mvc\Kendo.Mvc\obj\Debug\Kendo.Mvc.dll
+G:\TFS_MostafaAbedi\TFSPROJECTMOSTAFABEDI\IranSoftjoWebPackage\Kendo.Mvc\Kendo.Mvc\obj\Debug\Kendo.Mvc.pdb
+G:\TFS_MostafaAbedi\TFSPROJECTMOSTAFABEDI\IranSoftjoWebPackage\Kendo.Mvc\Kendo.Mvc\obj\Debug\Kendo.Mvc.csprojResolveAssemblyReference.cache
+G:\TFS\IranSoftjoWebPackage\Kendo.Mvc\Kendo.Mvc\bin\Debug\Kendo.Mvc.dll
+G:\TFS\IranSoftjoWebPackage\Kendo.Mvc\Kendo.Mvc\bin\Debug\Kendo.Mvc.pdb
+G:\TFS\IranSoftjoWebPackage\Kendo.Mvc\Kendo.Mvc\bin\Debug\fr-FR\Kendo.Mvc.resources.dll
+G:\TFS\IranSoftjoWebPackage\Kendo.Mvc\Kendo.Mvc\bin\Debug\System.Web.Http.dll
+G:\TFS\IranSoftjoWebPackage\Kendo.Mvc\Kendo.Mvc\bin\Debug\System.Web.Mvc.dll
+G:\TFS\IranSoftjoWebPackage\Kendo.Mvc\Kendo.Mvc\bin\Debug\System.Web.Razor.dll
+G:\TFS\IranSoftjoWebPackage\Kendo.Mvc\Kendo.Mvc\bin\Debug\System.Web.WebPages.dll
+G:\TFS\IranSoftjoWebPackage\Kendo.Mvc\Kendo.Mvc\bin\Debug\System.Web.WebPages.Razor.dll
+G:\TFS\IranSoftjoWebPackage\Kendo.Mvc\Kendo.Mvc\bin\Debug\System.Net.Http.dll
+G:\TFS\IranSoftjoWebPackage\Kendo.Mvc\Kendo.Mvc\bin\Debug\System.Net.Http.Formatting.dll
+G:\TFS\IranSoftjoWebPackage\Kendo.Mvc\Kendo.Mvc\bin\Debug\Newtonsoft.Json.dll
+G:\TFS\IranSoftjoWebPackage\Kendo.Mvc\Kendo.Mvc\bin\Debug\System.Web.Http.xml
+G:\TFS\IranSoftjoWebPackage\Kendo.Mvc\Kendo.Mvc\bin\Debug\System.Web.Mvc.xml
+G:\TFS\IranSoftjoWebPackage\Kendo.Mvc\Kendo.Mvc\bin\Debug\System.Web.Razor.xml
+G:\TFS\IranSoftjoWebPackage\Kendo.Mvc\Kendo.Mvc\bin\Debug\System.Web.WebPages.xml
+G:\TFS\IranSoftjoWebPackage\Kendo.Mvc\Kendo.Mvc\bin\Debug\System.Web.WebPages.Razor.xml
+G:\TFS\IranSoftjoWebPackage\Kendo.Mvc\Kendo.Mvc\bin\Debug\System.Net.Http.xml
+G:\TFS\IranSoftjoWebPackage\Kendo.Mvc\Kendo.Mvc\bin\Debug\System.Net.Http.Formatting.xml
+G:\TFS\IranSoftjoWebPackage\Kendo.Mvc\Kendo.Mvc\obj\Debug\Kendo.Mvc.csprojResolveAssemblyReference.cache
+G:\TFS\IranSoftjoWebPackage\Kendo.Mvc\Kendo.Mvc\obj\Debug\Kendo.Mvc.Resources.Messages.resources
+G:\TFS\IranSoftjoWebPackage\Kendo.Mvc\Kendo.Mvc\obj\Debug\Kendo.Mvc.Resources.Exceptions.resources
+G:\TFS\IranSoftjoWebPackage\Kendo.Mvc\Kendo.Mvc\obj\Debug\Kendo.Mvc.Resources.Messages.fr-FR.resources
+G:\TFS\IranSoftjoWebPackage\Kendo.Mvc\Kendo.Mvc\obj\Debug\Kendo.Mvc.csproj.GenerateResource.Cache
+G:\TFS\IranSoftjoWebPackage\Kendo.Mvc\Kendo.Mvc\obj\Debug\fr-FR\Kendo.Mvc.resources.dll
+G:\TFS\IranSoftjoWebPackage\Kendo.Mvc\Kendo.Mvc\obj\Debug\Kendo.Mvc.dll
+G:\TFS\IranSoftjoWebPackage\Kendo.Mvc\Kendo.Mvc\obj\Debug\Kendo.Mvc.pdb
+G:\TFS\IranSoftjoWebPackage\Kendo.Mvc\Kendo.Mvc\obj\Debug\Kendo.Mvc.Resources.Exceptions.fa-IR.resources
+G:\TFS\IranSoftjoWebPackage\Kendo.Mvc\Kendo.Mvc\obj\Debug\Kendo.Mvc.Resources.Messages.fa-IR.resources
+G:\TFS\IranSoftjoWebPackage\Kendo.Mvc\Kendo.Mvc\bin\Debug\fa-IR\Kendo.Mvc.resources.dll
+G:\TFS\IranSoftjoWebPackage\Kendo.Mvc\Kendo.Mvc\obj\Debug\fa-IR\Kendo.Mvc.resources.dll
+G:\TFS\IranSoftjoWebPackage\Kendo.Mvc\Kendo.Mvc\bin\Debug\Microsoft.Web.Infrastructure.dll
+G:\TFS\IranSoftjoWebPackage\Kendo.Mvc\Kendo.Mvc\bin\Debug\System.Web.WebPages.Deployment.dll
+G:\TFS\IranSoftjoWebPackage\Kendo.Mvc\Kendo.Mvc\bin\Debug\Microsoft.Web.Infrastructure.xml
+G:\TFS\IranSoftjoWebPackage\Kendo.Mvc\Kendo.Mvc\bin\Debug\System.Web.WebPages.Deployment.xml
+E:\TFS\IranSoftjoWebPackage\Kendo.Mvc\Kendo.Mvc\bin\Debug\Kendo.Mvc.dll
+E:\TFS\IranSoftjoWebPackage\Kendo.Mvc\Kendo.Mvc\bin\Debug\Kendo.Mvc.pdb
+E:\TFS\IranSoftjoWebPackage\Kendo.Mvc\Kendo.Mvc\bin\Debug\fa-IR\Kendo.Mvc.resources.dll
+E:\TFS\IranSoftjoWebPackage\Kendo.Mvc\Kendo.Mvc\bin\Debug\fr-FR\Kendo.Mvc.resources.dll
+E:\TFS\IranSoftjoWebPackage\Kendo.Mvc\Kendo.Mvc\bin\Debug\System.Web.Http.dll
+E:\TFS\IranSoftjoWebPackage\Kendo.Mvc\Kendo.Mvc\bin\Debug\System.Web.Mvc.dll
+E:\TFS\IranSoftjoWebPackage\Kendo.Mvc\Kendo.Mvc\bin\Debug\System.Web.Razor.dll
+E:\TFS\IranSoftjoWebPackage\Kendo.Mvc\Kendo.Mvc\bin\Debug\System.Web.WebPages.dll
+E:\TFS\IranSoftjoWebPackage\Kendo.Mvc\Kendo.Mvc\bin\Debug\System.Web.WebPages.Razor.dll
+E:\TFS\IranSoftjoWebPackage\Kendo.Mvc\Kendo.Mvc\bin\Debug\System.Net.Http.dll
+E:\TFS\IranSoftjoWebPackage\Kendo.Mvc\Kendo.Mvc\bin\Debug\System.Net.Http.Formatting.dll
+E:\TFS\IranSoftjoWebPackage\Kendo.Mvc\Kendo.Mvc\bin\Debug\Newtonsoft.Json.dll
+E:\TFS\IranSoftjoWebPackage\Kendo.Mvc\Kendo.Mvc\bin\Debug\Microsoft.Web.Infrastructure.dll
+E:\TFS\IranSoftjoWebPackage\Kendo.Mvc\Kendo.Mvc\bin\Debug\System.Web.WebPages.Deployment.dll
+E:\TFS\IranSoftjoWebPackage\Kendo.Mvc\Kendo.Mvc\bin\Debug\System.Web.Http.xml
+E:\TFS\IranSoftjoWebPackage\Kendo.Mvc\Kendo.Mvc\bin\Debug\System.Web.Mvc.xml
+E:\TFS\IranSoftjoWebPackage\Kendo.Mvc\Kendo.Mvc\bin\Debug\System.Web.Razor.xml
+E:\TFS\IranSoftjoWebPackage\Kendo.Mvc\Kendo.Mvc\bin\Debug\System.Web.WebPages.xml
+E:\TFS\IranSoftjoWebPackage\Kendo.Mvc\Kendo.Mvc\bin\Debug\System.Web.WebPages.Razor.xml
+E:\TFS\IranSoftjoWebPackage\Kendo.Mvc\Kendo.Mvc\bin\Debug\System.Web.WebPages.Deployment.xml
+E:\TFS\IranSoftjoWebPackage\Kendo.Mvc\Kendo.Mvc\obj\Debug\Kendo.Mvc.csprojResolveAssemblyReference.cache
+E:\TFS\IranSoftjoWebPackage\Kendo.Mvc\Kendo.Mvc\obj\Debug\Kendo.Mvc.Resources.Exceptions.resources
+E:\TFS\IranSoftjoWebPackage\Kendo.Mvc\Kendo.Mvc\obj\Debug\Kendo.Mvc.Resources.Messages.resources
+E:\TFS\IranSoftjoWebPackage\Kendo.Mvc\Kendo.Mvc\obj\Debug\Kendo.Mvc.Resources.Exceptions.fa-IR.resources
+E:\TFS\IranSoftjoWebPackage\Kendo.Mvc\Kendo.Mvc\obj\Debug\Kendo.Mvc.Resources.Messages.fa-IR.resources
+E:\TFS\IranSoftjoWebPackage\Kendo.Mvc\Kendo.Mvc\obj\Debug\Kendo.Mvc.Resources.Messages.fr-FR.resources
+E:\TFS\IranSoftjoWebPackage\Kendo.Mvc\Kendo.Mvc\obj\Debug\Kendo.Mvc.csproj.GenerateResource.Cache
+E:\TFS\IranSoftjoWebPackage\Kendo.Mvc\Kendo.Mvc\obj\Debug\fa-IR\Kendo.Mvc.resources.dll
+E:\TFS\IranSoftjoWebPackage\Kendo.Mvc\Kendo.Mvc\obj\Debug\fr-FR\Kendo.Mvc.resources.dll
+E:\TFS\IranSoftjoWebPackage\Kendo.Mvc\Kendo.Mvc\obj\Debug\Kendo.Mvc.dll
+E:\TFS\IranSoftjoWebPackage\Kendo.Mvc\Kendo.Mvc\obj\Debug\Kendo.Mvc.pdb
+E:\TFS\IranSoftjoMobaadeleh\Kendo.Mvc\Kendo.Mvc\bin\Debug\Kendo.Mvc.dll
+E:\TFS\IranSoftjoMobaadeleh\Kendo.Mvc\Kendo.Mvc\bin\Debug\Kendo.Mvc.pdb
+E:\TFS\IranSoftjoMobaadeleh\Kendo.Mvc\Kendo.Mvc\bin\Debug\fa-IR\Kendo.Mvc.resources.dll
+E:\TFS\IranSoftjoMobaadeleh\Kendo.Mvc\Kendo.Mvc\bin\Debug\fr-FR\Kendo.Mvc.resources.dll
+E:\TFS\IranSoftjoMobaadeleh\Kendo.Mvc\Kendo.Mvc\bin\Debug\System.Web.Http.dll
+E:\TFS\IranSoftjoMobaadeleh\Kendo.Mvc\Kendo.Mvc\bin\Debug\System.Web.Mvc.dll
+E:\TFS\IranSoftjoMobaadeleh\Kendo.Mvc\Kendo.Mvc\bin\Debug\System.Web.Razor.dll
+E:\TFS\IranSoftjoMobaadeleh\Kendo.Mvc\Kendo.Mvc\bin\Debug\System.Web.WebPages.dll
+E:\TFS\IranSoftjoMobaadeleh\Kendo.Mvc\Kendo.Mvc\bin\Debug\System.Web.WebPages.Razor.dll
+E:\TFS\IranSoftjoMobaadeleh\Kendo.Mvc\Kendo.Mvc\bin\Debug\System.Net.Http.dll
+E:\TFS\IranSoftjoMobaadeleh\Kendo.Mvc\Kendo.Mvc\bin\Debug\System.Net.Http.Formatting.dll
+E:\TFS\IranSoftjoMobaadeleh\Kendo.Mvc\Kendo.Mvc\bin\Debug\Microsoft.Web.Infrastructure.dll
+E:\TFS\IranSoftjoMobaadeleh\Kendo.Mvc\Kendo.Mvc\bin\Debug\System.Web.WebPages.Deployment.dll
+E:\TFS\IranSoftjoMobaadeleh\Kendo.Mvc\Kendo.Mvc\bin\Debug\System.Web.Http.xml
+E:\TFS\IranSoftjoMobaadeleh\Kendo.Mvc\Kendo.Mvc\bin\Debug\System.Web.Mvc.xml
+E:\TFS\IranSoftjoMobaadeleh\Kendo.Mvc\Kendo.Mvc\bin\Debug\System.Web.Razor.xml
+E:\TFS\IranSoftjoMobaadeleh\Kendo.Mvc\Kendo.Mvc\bin\Debug\System.Web.WebPages.xml
+E:\TFS\IranSoftjoMobaadeleh\Kendo.Mvc\Kendo.Mvc\bin\Debug\System.Web.WebPages.Razor.xml
+E:\TFS\IranSoftjoMobaadeleh\Kendo.Mvc\Kendo.Mvc\bin\Debug\System.Web.WebPages.Deployment.xml
+E:\TFS\IranSoftjoMobaadeleh\Kendo.Mvc\Kendo.Mvc\obj\Debug\Kendo.Mvc.csprojResolveAssemblyReference.cache
+E:\TFS\IranSoftjoMobaadeleh\Kendo.Mvc\Kendo.Mvc\obj\Debug\Kendo.Mvc.Resources.Exceptions.resources
+E:\TFS\IranSoftjoMobaadeleh\Kendo.Mvc\Kendo.Mvc\obj\Debug\Kendo.Mvc.Resources.Messages.resources
+E:\TFS\IranSoftjoMobaadeleh\Kendo.Mvc\Kendo.Mvc\obj\Debug\Kendo.Mvc.Resources.Exceptions.fa-IR.resources
+E:\TFS\IranSoftjoMobaadeleh\Kendo.Mvc\Kendo.Mvc\obj\Debug\Kendo.Mvc.Resources.Messages.fa-IR.resources
+E:\TFS\IranSoftjoMobaadeleh\Kendo.Mvc\Kendo.Mvc\obj\Debug\Kendo.Mvc.Resources.Messages.fr-FR.resources
+E:\TFS\IranSoftjoMobaadeleh\Kendo.Mvc\Kendo.Mvc\obj\Debug\Kendo.Mvc.csproj.GenerateResource.Cache
+E:\TFS\IranSoftjoMobaadeleh\Kendo.Mvc\Kendo.Mvc\obj\Debug\fa-IR\Kendo.Mvc.resources.dll
+E:\TFS\IranSoftjoMobaadeleh\Kendo.Mvc\Kendo.Mvc\obj\Debug\fr-FR\Kendo.Mvc.resources.dll
+E:\TFS\IranSoftjoMobaadeleh\Kendo.Mvc\Kendo.Mvc\obj\Debug\Kendo.Mvc.dll
+E:\TFS\IranSoftjoMobaadeleh\Kendo.Mvc\Kendo.Mvc\obj\Debug\Kendo.Mvc.pdb
+E:\Project\Mobaadeleh MVP\TFS_Project_IranSoftjo\Kendo.Mvc\Kendo.Mvc\bin\Debug\Kendo.Mvc.dll
+E:\Project\Mobaadeleh MVP\TFS_Project_IranSoftjo\Kendo.Mvc\Kendo.Mvc\bin\Debug\Kendo.Mvc.pdb
+E:\Project\Mobaadeleh MVP\TFS_Project_IranSoftjo\Kendo.Mvc\Kendo.Mvc\bin\Debug\fa-IR\Kendo.Mvc.resources.dll
+E:\Project\Mobaadeleh MVP\TFS_Project_IranSoftjo\Kendo.Mvc\Kendo.Mvc\bin\Debug\fr-FR\Kendo.Mvc.resources.dll
+E:\Project\Mobaadeleh MVP\TFS_Project_IranSoftjo\Kendo.Mvc\Kendo.Mvc\bin\Debug\System.Web.Http.dll
+E:\Project\Mobaadeleh MVP\TFS_Project_IranSoftjo\Kendo.Mvc\Kendo.Mvc\bin\Debug\System.Web.Mvc.dll
+E:\Project\Mobaadeleh MVP\TFS_Project_IranSoftjo\Kendo.Mvc\Kendo.Mvc\bin\Debug\System.Web.Razor.dll
+E:\Project\Mobaadeleh MVP\TFS_Project_IranSoftjo\Kendo.Mvc\Kendo.Mvc\bin\Debug\System.Web.WebPages.dll
+E:\Project\Mobaadeleh MVP\TFS_Project_IranSoftjo\Kendo.Mvc\Kendo.Mvc\bin\Debug\System.Web.WebPages.Razor.dll
+E:\Project\Mobaadeleh MVP\TFS_Project_IranSoftjo\Kendo.Mvc\Kendo.Mvc\bin\Debug\System.Net.Http.dll
+E:\Project\Mobaadeleh MVP\TFS_Project_IranSoftjo\Kendo.Mvc\Kendo.Mvc\bin\Debug\System.Net.Http.Formatting.dll
+E:\Project\Mobaadeleh MVP\TFS_Project_IranSoftjo\Kendo.Mvc\Kendo.Mvc\bin\Debug\Microsoft.Web.Infrastructure.dll
+E:\Project\Mobaadeleh MVP\TFS_Project_IranSoftjo\Kendo.Mvc\Kendo.Mvc\bin\Debug\System.Web.WebPages.Deployment.dll
+E:\Project\Mobaadeleh MVP\TFS_Project_IranSoftjo\Kendo.Mvc\Kendo.Mvc\bin\Debug\System.Web.Http.xml
+E:\Project\Mobaadeleh MVP\TFS_Project_IranSoftjo\Kendo.Mvc\Kendo.Mvc\bin\Debug\System.Web.Mvc.xml
+E:\Project\Mobaadeleh MVP\TFS_Project_IranSoftjo\Kendo.Mvc\Kendo.Mvc\bin\Debug\System.Web.Razor.xml
+E:\Project\Mobaadeleh MVP\TFS_Project_IranSoftjo\Kendo.Mvc\Kendo.Mvc\bin\Debug\System.Web.WebPages.xml
+E:\Project\Mobaadeleh MVP\TFS_Project_IranSoftjo\Kendo.Mvc\Kendo.Mvc\bin\Debug\System.Web.WebPages.Razor.xml
+E:\Project\Mobaadeleh MVP\TFS_Project_IranSoftjo\Kendo.Mvc\Kendo.Mvc\bin\Debug\System.Web.WebPages.Deployment.xml
+E:\Project\Mobaadeleh MVP\TFS_Project_IranSoftjo\Kendo.Mvc\Kendo.Mvc\obj\Debug\Kendo.Mvc.Resources.Exceptions.resources
+E:\Project\Mobaadeleh MVP\TFS_Project_IranSoftjo\Kendo.Mvc\Kendo.Mvc\obj\Debug\Kendo.Mvc.Resources.Messages.resources
+E:\Project\Mobaadeleh MVP\TFS_Project_IranSoftjo\Kendo.Mvc\Kendo.Mvc\obj\Debug\Kendo.Mvc.Resources.Exceptions.fa-IR.resources
+E:\Project\Mobaadeleh MVP\TFS_Project_IranSoftjo\Kendo.Mvc\Kendo.Mvc\obj\Debug\Kendo.Mvc.Resources.Messages.fa-IR.resources
+E:\Project\Mobaadeleh MVP\TFS_Project_IranSoftjo\Kendo.Mvc\Kendo.Mvc\obj\Debug\Kendo.Mvc.Resources.Messages.fr-FR.resources
+E:\Project\Mobaadeleh MVP\TFS_Project_IranSoftjo\Kendo.Mvc\Kendo.Mvc\obj\Debug\Kendo.Mvc.csproj.GenerateResource.Cache
+E:\Project\Mobaadeleh MVP\TFS_Project_IranSoftjo\Kendo.Mvc\Kendo.Mvc\obj\Debug\fa-IR\Kendo.Mvc.resources.dll
+E:\Project\Mobaadeleh MVP\TFS_Project_IranSoftjo\Kendo.Mvc\Kendo.Mvc\obj\Debug\fr-FR\Kendo.Mvc.resources.dll
+E:\Project\Mobaadeleh MVP\TFS_Project_IranSoftjo\Kendo.Mvc\Kendo.Mvc\obj\Debug\Kendo.Mvc.dll
+E:\Project\Mobaadeleh MVP\TFS_Project_IranSoftjo\Kendo.Mvc\Kendo.Mvc\obj\Debug\Kendo.Mvc.pdb
+E:\Project\Mobaadeleh MVP\TFS_Project_IranSoftjo\Kendo.Mvc\Kendo.Mvc\obj\Debug\Kendo.Mvc.csprojResolveAssemblyReference.cache
+I:\BackUp Pc NEW\Mobaadeleh MVP\TFS_Project_IranSoftjo\Kendo.Mvc\Kendo.Mvc\bin\Debug\Kendo.Mvc.dll
+I:\BackUp Pc NEW\Mobaadeleh MVP\TFS_Project_IranSoftjo\Kendo.Mvc\Kendo.Mvc\bin\Debug\Kendo.Mvc.pdb
+I:\BackUp Pc NEW\Mobaadeleh MVP\TFS_Project_IranSoftjo\Kendo.Mvc\Kendo.Mvc\bin\Debug\fa-IR\Kendo.Mvc.resources.dll
+I:\BackUp Pc NEW\Mobaadeleh MVP\TFS_Project_IranSoftjo\Kendo.Mvc\Kendo.Mvc\bin\Debug\fr-FR\Kendo.Mvc.resources.dll
+I:\BackUp Pc NEW\Mobaadeleh MVP\TFS_Project_IranSoftjo\Kendo.Mvc\Kendo.Mvc\bin\Debug\System.Web.Http.dll
+I:\BackUp Pc NEW\Mobaadeleh MVP\TFS_Project_IranSoftjo\Kendo.Mvc\Kendo.Mvc\bin\Debug\System.Web.Mvc.dll
+I:\BackUp Pc NEW\Mobaadeleh MVP\TFS_Project_IranSoftjo\Kendo.Mvc\Kendo.Mvc\bin\Debug\System.Web.Razor.dll
+I:\BackUp Pc NEW\Mobaadeleh MVP\TFS_Project_IranSoftjo\Kendo.Mvc\Kendo.Mvc\bin\Debug\System.Web.WebPages.dll
+I:\BackUp Pc NEW\Mobaadeleh MVP\TFS_Project_IranSoftjo\Kendo.Mvc\Kendo.Mvc\bin\Debug\System.Web.WebPages.Razor.dll
+I:\BackUp Pc NEW\Mobaadeleh MVP\TFS_Project_IranSoftjo\Kendo.Mvc\Kendo.Mvc\bin\Debug\System.Net.Http.dll
+I:\BackUp Pc NEW\Mobaadeleh MVP\TFS_Project_IranSoftjo\Kendo.Mvc\Kendo.Mvc\bin\Debug\System.Net.Http.Formatting.dll
+I:\BackUp Pc NEW\Mobaadeleh MVP\TFS_Project_IranSoftjo\Kendo.Mvc\Kendo.Mvc\bin\Debug\Microsoft.Web.Infrastructure.dll
+I:\BackUp Pc NEW\Mobaadeleh MVP\TFS_Project_IranSoftjo\Kendo.Mvc\Kendo.Mvc\bin\Debug\System.Web.WebPages.Deployment.dll
+I:\BackUp Pc NEW\Mobaadeleh MVP\TFS_Project_IranSoftjo\Kendo.Mvc\Kendo.Mvc\bin\Debug\System.Web.Http.xml
+I:\BackUp Pc NEW\Mobaadeleh MVP\TFS_Project_IranSoftjo\Kendo.Mvc\Kendo.Mvc\bin\Debug\System.Web.Mvc.xml
+I:\BackUp Pc NEW\Mobaadeleh MVP\TFS_Project_IranSoftjo\Kendo.Mvc\Kendo.Mvc\bin\Debug\System.Web.Razor.xml
+I:\BackUp Pc NEW\Mobaadeleh MVP\TFS_Project_IranSoftjo\Kendo.Mvc\Kendo.Mvc\bin\Debug\System.Web.WebPages.xml
+I:\BackUp Pc NEW\Mobaadeleh MVP\TFS_Project_IranSoftjo\Kendo.Mvc\Kendo.Mvc\bin\Debug\System.Web.WebPages.Razor.xml
+I:\BackUp Pc NEW\Mobaadeleh MVP\TFS_Project_IranSoftjo\Kendo.Mvc\Kendo.Mvc\bin\Debug\System.Web.WebPages.Deployment.xml
+I:\BackUp Pc NEW\Mobaadeleh MVP\TFS_Project_IranSoftjo\Kendo.Mvc\Kendo.Mvc\obj\Debug\Kendo.Mvc.csprojResolveAssemblyReference.cache
+I:\BackUp Pc NEW\Mobaadeleh MVP\TFS_Project_IranSoftjo\Kendo.Mvc\Kendo.Mvc\obj\Debug\Kendo.Mvc.Resources.Exceptions.resources
+I:\BackUp Pc NEW\Mobaadeleh MVP\TFS_Project_IranSoftjo\Kendo.Mvc\Kendo.Mvc\obj\Debug\Kendo.Mvc.Resources.Messages.resources
+I:\BackUp Pc NEW\Mobaadeleh MVP\TFS_Project_IranSoftjo\Kendo.Mvc\Kendo.Mvc\obj\Debug\Kendo.Mvc.Resources.Exceptions.fa-IR.resources
+I:\BackUp Pc NEW\Mobaadeleh MVP\TFS_Project_IranSoftjo\Kendo.Mvc\Kendo.Mvc\obj\Debug\Kendo.Mvc.Resources.Messages.fa-IR.resources
+I:\BackUp Pc NEW\Mobaadeleh MVP\TFS_Project_IranSoftjo\Kendo.Mvc\Kendo.Mvc\obj\Debug\Kendo.Mvc.Resources.Messages.fr-FR.resources
+I:\BackUp Pc NEW\Mobaadeleh MVP\TFS_Project_IranSoftjo\Kendo.Mvc\Kendo.Mvc\obj\Debug\Kendo.Mvc.csproj.GenerateResource.Cache
+I:\BackUp Pc NEW\Mobaadeleh MVP\TFS_Project_IranSoftjo\Kendo.Mvc\Kendo.Mvc\obj\Debug\fa-IR\Kendo.Mvc.resources.dll
+I:\BackUp Pc NEW\Mobaadeleh MVP\TFS_Project_IranSoftjo\Kendo.Mvc\Kendo.Mvc\obj\Debug\fr-FR\Kendo.Mvc.resources.dll
+I:\BackUp Pc NEW\Mobaadeleh MVP\TFS_Project_IranSoftjo\Kendo.Mvc\Kendo.Mvc\obj\Debug\Kendo.Mvc.dll
+I:\BackUp Pc NEW\Mobaadeleh MVP\TFS_Project_IranSoftjo\Kendo.Mvc\Kendo.Mvc\obj\Debug\Kendo.Mvc.pdb
+I:\TFS\TFS_Project_IranSoftjo\Kendo.Mvc\Kendo.Mvc\bin\Debug\Kendo.Mvc.dll
+I:\TFS\TFS_Project_IranSoftjo\Kendo.Mvc\Kendo.Mvc\bin\Debug\Kendo.Mvc.pdb
+I:\TFS\TFS_Project_IranSoftjo\Kendo.Mvc\Kendo.Mvc\bin\Debug\fa-IR\Kendo.Mvc.resources.dll
+I:\TFS\TFS_Project_IranSoftjo\Kendo.Mvc\Kendo.Mvc\bin\Debug\fr-FR\Kendo.Mvc.resources.dll
+I:\TFS\TFS_Project_IranSoftjo\Kendo.Mvc\Kendo.Mvc\bin\Debug\System.Web.Http.dll
+I:\TFS\TFS_Project_IranSoftjo\Kendo.Mvc\Kendo.Mvc\bin\Debug\System.Web.Mvc.dll
+I:\TFS\TFS_Project_IranSoftjo\Kendo.Mvc\Kendo.Mvc\bin\Debug\System.Web.Razor.dll
+I:\TFS\TFS_Project_IranSoftjo\Kendo.Mvc\Kendo.Mvc\bin\Debug\System.Web.WebPages.dll
+I:\TFS\TFS_Project_IranSoftjo\Kendo.Mvc\Kendo.Mvc\bin\Debug\System.Web.WebPages.Razor.dll
+I:\TFS\TFS_Project_IranSoftjo\Kendo.Mvc\Kendo.Mvc\bin\Debug\System.Net.Http.dll
+I:\TFS\TFS_Project_IranSoftjo\Kendo.Mvc\Kendo.Mvc\bin\Debug\System.Net.Http.Formatting.dll
+I:\TFS\TFS_Project_IranSoftjo\Kendo.Mvc\Kendo.Mvc\bin\Debug\Microsoft.Web.Infrastructure.dll
+I:\TFS\TFS_Project_IranSoftjo\Kendo.Mvc\Kendo.Mvc\bin\Debug\System.Web.WebPages.Deployment.dll
+I:\TFS\TFS_Project_IranSoftjo\Kendo.Mvc\Kendo.Mvc\bin\Debug\System.Web.Http.xml
+I:\TFS\TFS_Project_IranSoftjo\Kendo.Mvc\Kendo.Mvc\bin\Debug\System.Web.Mvc.xml
+I:\TFS\TFS_Project_IranSoftjo\Kendo.Mvc\Kendo.Mvc\bin\Debug\System.Web.Razor.xml
+I:\TFS\TFS_Project_IranSoftjo\Kendo.Mvc\Kendo.Mvc\bin\Debug\System.Web.WebPages.xml
+I:\TFS\TFS_Project_IranSoftjo\Kendo.Mvc\Kendo.Mvc\bin\Debug\System.Web.WebPages.Razor.xml
+I:\TFS\TFS_Project_IranSoftjo\Kendo.Mvc\Kendo.Mvc\bin\Debug\System.Web.WebPages.Deployment.xml
+I:\TFS\TFS_Project_IranSoftjo\Kendo.Mvc\Kendo.Mvc\obj\Debug\Kendo.Mvc.csprojResolveAssemblyReference.cache
+I:\TFS\TFS_Project_IranSoftjo\Kendo.Mvc\Kendo.Mvc\obj\Debug\Kendo.Mvc.Resources.Exceptions.resources
+I:\TFS\TFS_Project_IranSoftjo\Kendo.Mvc\Kendo.Mvc\obj\Debug\Kendo.Mvc.Resources.Messages.resources
+I:\TFS\TFS_Project_IranSoftjo\Kendo.Mvc\Kendo.Mvc\obj\Debug\Kendo.Mvc.Resources.Exceptions.fa-IR.resources
+I:\TFS\TFS_Project_IranSoftjo\Kendo.Mvc\Kendo.Mvc\obj\Debug\Kendo.Mvc.Resources.Messages.fa-IR.resources
+I:\TFS\TFS_Project_IranSoftjo\Kendo.Mvc\Kendo.Mvc\obj\Debug\Kendo.Mvc.Resources.Messages.fr-FR.resources
+I:\TFS\TFS_Project_IranSoftjo\Kendo.Mvc\Kendo.Mvc\obj\Debug\Kendo.Mvc.csproj.GenerateResource.Cache
+I:\TFS\TFS_Project_IranSoftjo\Kendo.Mvc\Kendo.Mvc\obj\Debug\fa-IR\Kendo.Mvc.resources.dll
+I:\TFS\TFS_Project_IranSoftjo\Kendo.Mvc\Kendo.Mvc\obj\Debug\fr-FR\Kendo.Mvc.resources.dll
+I:\TFS\TFS_Project_IranSoftjo\Kendo.Mvc\Kendo.Mvc\obj\Debug\Kendo.Mvc.dll
+I:\TFS\TFS_Project_IranSoftjo\Kendo.Mvc\Kendo.Mvc\obj\Debug\Kendo.Mvc.pdb
+F:\TFS\TFS_Project_IranSoftjo\Kendo.Mvc\Kendo.Mvc\bin\Debug\Kendo.Mvc.dll
+F:\TFS\TFS_Project_IranSoftjo\Kendo.Mvc\Kendo.Mvc\bin\Debug\Kendo.Mvc.pdb
+F:\TFS\TFS_Project_IranSoftjo\Kendo.Mvc\Kendo.Mvc\bin\Debug\fa-IR\Kendo.Mvc.resources.dll
+F:\TFS\TFS_Project_IranSoftjo\Kendo.Mvc\Kendo.Mvc\bin\Debug\fr-FR\Kendo.Mvc.resources.dll
+F:\TFS\TFS_Project_IranSoftjo\Kendo.Mvc\Kendo.Mvc\bin\Debug\System.Net.Http.dll
+F:\TFS\TFS_Project_IranSoftjo\Kendo.Mvc\Kendo.Mvc\bin\Debug\System.Web.Http.dll
+F:\TFS\TFS_Project_IranSoftjo\Kendo.Mvc\Kendo.Mvc\bin\Debug\System.Web.Mvc.dll
+F:\TFS\TFS_Project_IranSoftjo\Kendo.Mvc\Kendo.Mvc\bin\Debug\System.Web.Razor.dll
+F:\TFS\TFS_Project_IranSoftjo\Kendo.Mvc\Kendo.Mvc\bin\Debug\System.Web.WebPages.dll
+F:\TFS\TFS_Project_IranSoftjo\Kendo.Mvc\Kendo.Mvc\bin\Debug\System.Web.WebPages.Razor.dll
+F:\TFS\TFS_Project_IranSoftjo\Kendo.Mvc\Kendo.Mvc\bin\Debug\System.Net.Http.Formatting.dll
+F:\TFS\TFS_Project_IranSoftjo\Kendo.Mvc\Kendo.Mvc\bin\Debug\Microsoft.Web.Infrastructure.dll
+F:\TFS\TFS_Project_IranSoftjo\Kendo.Mvc\Kendo.Mvc\bin\Debug\System.Web.WebPages.Deployment.dll
+F:\TFS\TFS_Project_IranSoftjo\Kendo.Mvc\Kendo.Mvc\bin\Debug\System.Net.Http.xml
+F:\TFS\TFS_Project_IranSoftjo\Kendo.Mvc\Kendo.Mvc\bin\Debug\System.Web.Http.xml
+F:\TFS\TFS_Project_IranSoftjo\Kendo.Mvc\Kendo.Mvc\bin\Debug\System.Web.Mvc.xml
+F:\TFS\TFS_Project_IranSoftjo\Kendo.Mvc\Kendo.Mvc\bin\Debug\System.Web.Razor.xml
+F:\TFS\TFS_Project_IranSoftjo\Kendo.Mvc\Kendo.Mvc\bin\Debug\System.Web.WebPages.xml
+F:\TFS\TFS_Project_IranSoftjo\Kendo.Mvc\Kendo.Mvc\bin\Debug\System.Web.WebPages.Razor.xml
+F:\TFS\TFS_Project_IranSoftjo\Kendo.Mvc\Kendo.Mvc\bin\Debug\System.Web.WebPages.Deployment.xml
+F:\TFS\TFS_Project_IranSoftjo\Kendo.Mvc\Kendo.Mvc\obj\Debug\Kendo.Mvc.Resources.Exceptions.resources
+F:\TFS\TFS_Project_IranSoftjo\Kendo.Mvc\Kendo.Mvc\obj\Debug\Kendo.Mvc.Resources.Messages.resources
+F:\TFS\TFS_Project_IranSoftjo\Kendo.Mvc\Kendo.Mvc\obj\Debug\Kendo.Mvc.Resources.Exceptions.fa-IR.resources
+F:\TFS\TFS_Project_IranSoftjo\Kendo.Mvc\Kendo.Mvc\obj\Debug\Kendo.Mvc.Resources.Messages.fa-IR.resources
+F:\TFS\TFS_Project_IranSoftjo\Kendo.Mvc\Kendo.Mvc\obj\Debug\Kendo.Mvc.Resources.Messages.fr-FR.resources
+F:\TFS\TFS_Project_IranSoftjo\Kendo.Mvc\Kendo.Mvc\obj\Debug\Kendo.Mvc.csproj.GenerateResource.Cache
+F:\TFS\TFS_Project_IranSoftjo\Kendo.Mvc\Kendo.Mvc\obj\Debug\fa-IR\Kendo.Mvc.resources.dll
+F:\TFS\TFS_Project_IranSoftjo\Kendo.Mvc\Kendo.Mvc\obj\Debug\fr-FR\Kendo.Mvc.resources.dll
+F:\TFS\TFS_Project_IranSoftjo\Kendo.Mvc\Kendo.Mvc\obj\Debug\Kendo.Mvc.dll
+F:\TFS\TFS_Project_IranSoftjo\Kendo.Mvc\Kendo.Mvc\obj\Debug\Kendo.Mvc.pdb
+F:\TFS\TFS_Project_IranSoftjo\Kendo.Mvc\Kendo.Mvc\obj\Debug\Kendo.Mvc.csprojResolveAssemblyReference.cache
+E:\TFS_Project_IranSoftjo\Kendo.Mvc\Kendo.Mvc\bin\Debug\Kendo.Mvc.dll
+E:\TFS_Project_IranSoftjo\Kendo.Mvc\Kendo.Mvc\bin\Debug\Kendo.Mvc.pdb
+E:\TFS_Project_IranSoftjo\Kendo.Mvc\Kendo.Mvc\bin\Debug\fa-IR\Kendo.Mvc.resources.dll
+E:\TFS_Project_IranSoftjo\Kendo.Mvc\Kendo.Mvc\bin\Debug\fr-FR\Kendo.Mvc.resources.dll
+E:\TFS_Project_IranSoftjo\Kendo.Mvc\Kendo.Mvc\bin\Debug\System.Net.Http.dll
+E:\TFS_Project_IranSoftjo\Kendo.Mvc\Kendo.Mvc\bin\Debug\System.Web.Http.dll
+E:\TFS_Project_IranSoftjo\Kendo.Mvc\Kendo.Mvc\bin\Debug\System.Web.Mvc.dll
+E:\TFS_Project_IranSoftjo\Kendo.Mvc\Kendo.Mvc\bin\Debug\System.Web.Razor.dll
+E:\TFS_Project_IranSoftjo\Kendo.Mvc\Kendo.Mvc\bin\Debug\System.Web.WebPages.dll
+E:\TFS_Project_IranSoftjo\Kendo.Mvc\Kendo.Mvc\bin\Debug\System.Web.WebPages.Razor.dll
+E:\TFS_Project_IranSoftjo\Kendo.Mvc\Kendo.Mvc\bin\Debug\System.Net.Http.Formatting.dll
+E:\TFS_Project_IranSoftjo\Kendo.Mvc\Kendo.Mvc\bin\Debug\Microsoft.Web.Infrastructure.dll
+E:\TFS_Project_IranSoftjo\Kendo.Mvc\Kendo.Mvc\bin\Debug\System.Web.WebPages.Deployment.dll
+E:\TFS_Project_IranSoftjo\Kendo.Mvc\Kendo.Mvc\bin\Debug\System.Net.Http.xml
+E:\TFS_Project_IranSoftjo\Kendo.Mvc\Kendo.Mvc\bin\Debug\System.Web.Http.xml
+E:\TFS_Project_IranSoftjo\Kendo.Mvc\Kendo.Mvc\bin\Debug\System.Web.Mvc.xml
+E:\TFS_Project_IranSoftjo\Kendo.Mvc\Kendo.Mvc\bin\Debug\System.Web.Razor.xml
+E:\TFS_Project_IranSoftjo\Kendo.Mvc\Kendo.Mvc\bin\Debug\System.Web.WebPages.xml
+E:\TFS_Project_IranSoftjo\Kendo.Mvc\Kendo.Mvc\bin\Debug\System.Web.WebPages.Razor.xml
+E:\TFS_Project_IranSoftjo\Kendo.Mvc\Kendo.Mvc\bin\Debug\System.Net.Http.Formatting.xml
+E:\TFS_Project_IranSoftjo\Kendo.Mvc\Kendo.Mvc\bin\Debug\Microsoft.Web.Infrastructure.xml
+E:\TFS_Project_IranSoftjo\Kendo.Mvc\Kendo.Mvc\bin\Debug\System.Web.WebPages.Deployment.xml
+E:\TFS_Project_IranSoftjo\Kendo.Mvc\Kendo.Mvc\obj\Debug\Kendo.Mvc.csprojResolveAssemblyReference.cache
+E:\TFS_Project_IranSoftjo\Kendo.Mvc\Kendo.Mvc\obj\Debug\Kendo.Mvc.Resources.Exceptions.resources
+E:\TFS_Project_IranSoftjo\Kendo.Mvc\Kendo.Mvc\obj\Debug\Kendo.Mvc.Resources.Messages.resources
+E:\TFS_Project_IranSoftjo\Kendo.Mvc\Kendo.Mvc\obj\Debug\Kendo.Mvc.Resources.Exceptions.fa-IR.resources
+E:\TFS_Project_IranSoftjo\Kendo.Mvc\Kendo.Mvc\obj\Debug\Kendo.Mvc.Resources.Messages.fa-IR.resources
+E:\TFS_Project_IranSoftjo\Kendo.Mvc\Kendo.Mvc\obj\Debug\Kendo.Mvc.Resources.Messages.fr-FR.resources
+E:\TFS_Project_IranSoftjo\Kendo.Mvc\Kendo.Mvc\obj\Debug\Kendo.Mvc.csproj.GenerateResource.Cache
+E:\TFS_Project_IranSoftjo\Kendo.Mvc\Kendo.Mvc\obj\Debug\fa-IR\Kendo.Mvc.resources.dll
+E:\TFS_Project_IranSoftjo\Kendo.Mvc\Kendo.Mvc\obj\Debug\fr-FR\Kendo.Mvc.resources.dll
+E:\TFS_Project_IranSoftjo\Kendo.Mvc\Kendo.Mvc\obj\Debug\Kendo.Mvc.dll
+E:\TFS_Project_IranSoftjo\Kendo.Mvc\Kendo.Mvc\obj\Debug\Kendo.Mvc.pdb
+E:\Abedi_TFS_LoyalBank\LoyalBankWS\LoyalBankLibrary\Kendo.Mvc\bin\Debug\Kendo.Mvc.dll
+E:\Abedi_TFS_LoyalBank\LoyalBankWS\LoyalBankLibrary\Kendo.Mvc\bin\Debug\Kendo.Mvc.pdb
+E:\Abedi_TFS_LoyalBank\LoyalBankWS\LoyalBankLibrary\Kendo.Mvc\bin\Debug\fa-IR\Kendo.Mvc.resources.dll
+E:\Abedi_TFS_LoyalBank\LoyalBankWS\LoyalBankLibrary\Kendo.Mvc\bin\Debug\fr-FR\Kendo.Mvc.resources.dll
+E:\Abedi_TFS_LoyalBank\LoyalBankWS\LoyalBankLibrary\Kendo.Mvc\bin\Debug\System.Net.Http.dll
+E:\Abedi_TFS_LoyalBank\LoyalBankWS\LoyalBankLibrary\Kendo.Mvc\bin\Debug\System.Net.Http.Formatting.dll
+E:\Abedi_TFS_LoyalBank\LoyalBankWS\LoyalBankLibrary\Kendo.Mvc\obj\Debug\Kendo.Mvc.Resources.Exceptions.resources
+E:\Abedi_TFS_LoyalBank\LoyalBankWS\LoyalBankLibrary\Kendo.Mvc\obj\Debug\Kendo.Mvc.Resources.Messages.resources
+E:\Abedi_TFS_LoyalBank\LoyalBankWS\LoyalBankLibrary\Kendo.Mvc\obj\Debug\Kendo.Mvc.Resources.Exceptions.fa-IR.resources
+E:\Abedi_TFS_LoyalBank\LoyalBankWS\LoyalBankLibrary\Kendo.Mvc\obj\Debug\Kendo.Mvc.Resources.Messages.fa-IR.resources
+E:\Abedi_TFS_LoyalBank\LoyalBankWS\LoyalBankLibrary\Kendo.Mvc\obj\Debug\Kendo.Mvc.Resources.Messages.fr-FR.resources
+E:\Abedi_TFS_LoyalBank\LoyalBankWS\LoyalBankLibrary\Kendo.Mvc\obj\Debug\Kendo.Mvc.csproj.GenerateResource.Cache
+E:\Abedi_TFS_LoyalBank\LoyalBankWS\LoyalBankLibrary\Kendo.Mvc\obj\Debug\fa-IR\Kendo.Mvc.resources.dll
+E:\Abedi_TFS_LoyalBank\LoyalBankWS\LoyalBankLibrary\Kendo.Mvc\obj\Debug\fr-FR\Kendo.Mvc.resources.dll
+E:\Abedi_TFS_LoyalBank\LoyalBankWS\LoyalBankLibrary\Kendo.Mvc\obj\Debug\Kendo.Mvc.dll
+E:\Abedi_TFS_LoyalBank\LoyalBankWS\LoyalBankLibrary\Kendo.Mvc\obj\Debug\Kendo.Mvc.pdb
+E:\Abedi_TFS_LoyalBank\LoyalBankWS\LoyalBankLibrary\Kendo.Mvc\bin\Debug\System.Web.Http.dll
+E:\Abedi_TFS_LoyalBank\LoyalBankWS\LoyalBankLibrary\Kendo.Mvc\bin\Debug\System.Web.Mvc.dll
+E:\Abedi_TFS_LoyalBank\LoyalBankWS\LoyalBankLibrary\Kendo.Mvc\obj\Debug\Kendo.Mvc.csprojAssemblyReference.cache
+E:\Abedi_TFS_LoyalBank\LoyalBankWS\LoyalBankLibrary\Kendo.Mvc\obj\Debug\Kendo.Mvc.csproj.CoreCompileInputs.cache
+E:\Abedi_TFS_LoyalBank\LoyalBankWS\LoyalBankLibrary\Kendo.Mvc\obj\Debug\Kendo.Mvc.csproj.CopyComplete
+D:\Abedi_TFS_CipMehrabad\Cip_Mehrabad\CipMehrabadLibrary\Kendo.Mvc\bin\Debug\Kendo.Mvc.dll
+D:\Abedi_TFS_CipMehrabad\Cip_Mehrabad\CipMehrabadLibrary\Kendo.Mvc\bin\Debug\Kendo.Mvc.pdb
+D:\Abedi_TFS_CipMehrabad\Cip_Mehrabad\CipMehrabadLibrary\Kendo.Mvc\bin\Debug\fa-IR\Kendo.Mvc.resources.dll
+D:\Abedi_TFS_CipMehrabad\Cip_Mehrabad\CipMehrabadLibrary\Kendo.Mvc\bin\Debug\fr-FR\Kendo.Mvc.resources.dll
+D:\Abedi_TFS_CipMehrabad\Cip_Mehrabad\CipMehrabadLibrary\Kendo.Mvc\bin\Debug\System.Net.Http.dll
+D:\Abedi_TFS_CipMehrabad\Cip_Mehrabad\CipMehrabadLibrary\Kendo.Mvc\bin\Debug\System.Web.Http.dll
+D:\Abedi_TFS_CipMehrabad\Cip_Mehrabad\CipMehrabadLibrary\Kendo.Mvc\bin\Debug\System.Web.Mvc.dll
+D:\Abedi_TFS_CipMehrabad\Cip_Mehrabad\CipMehrabadLibrary\Kendo.Mvc\bin\Debug\System.Net.Http.Formatting.dll
+D:\Abedi_TFS_CipMehrabad\Cip_Mehrabad\CipMehrabadLibrary\Kendo.Mvc\obj\Debug\Kendo.Mvc.csprojAssemblyReference.cache
+D:\Abedi_TFS_CipMehrabad\Cip_Mehrabad\CipMehrabadLibrary\Kendo.Mvc\obj\Debug\Kendo.Mvc.Resources.Exceptions.resources
+D:\Abedi_TFS_CipMehrabad\Cip_Mehrabad\CipMehrabadLibrary\Kendo.Mvc\obj\Debug\Kendo.Mvc.Resources.Messages.resources
+D:\Abedi_TFS_CipMehrabad\Cip_Mehrabad\CipMehrabadLibrary\Kendo.Mvc\obj\Debug\Kendo.Mvc.Resources.Exceptions.fa-IR.resources
+D:\Abedi_TFS_CipMehrabad\Cip_Mehrabad\CipMehrabadLibrary\Kendo.Mvc\obj\Debug\Kendo.Mvc.Resources.Messages.fa-IR.resources
+D:\Abedi_TFS_CipMehrabad\Cip_Mehrabad\CipMehrabadLibrary\Kendo.Mvc\obj\Debug\Kendo.Mvc.Resources.Messages.fr-FR.resources
+D:\Abedi_TFS_CipMehrabad\Cip_Mehrabad\CipMehrabadLibrary\Kendo.Mvc\obj\Debug\Kendo.Mvc.csproj.GenerateResource.cache
+D:\Abedi_TFS_CipMehrabad\Cip_Mehrabad\CipMehrabadLibrary\Kendo.Mvc\obj\Debug\Kendo.Mvc.csproj.CoreCompileInputs.cache
+D:\Abedi_TFS_CipMehrabad\Cip_Mehrabad\CipMehrabadLibrary\Kendo.Mvc\obj\Debug\fa-IR\Kendo.Mvc.resources.dll
+D:\Abedi_TFS_CipMehrabad\Cip_Mehrabad\CipMehrabadLibrary\Kendo.Mvc\obj\Debug\fr-FR\Kendo.Mvc.resources.dll
+D:\Abedi_TFS_CipMehrabad\Cip_Mehrabad\CipMehrabadLibrary\Kendo.Mvc\obj\Debug\Kendo.Mvc.csproj.CopyComplete
+D:\Abedi_TFS_CipMehrabad\Cip_Mehrabad\CipMehrabadLibrary\Kendo.Mvc\obj\Debug\Kendo.Mvc.dll
+D:\Abedi_TFS_CipMehrabad\Cip_Mehrabad\CipMehrabadLibrary\Kendo.Mvc\obj\Debug\Kendo.Mvc.pdb

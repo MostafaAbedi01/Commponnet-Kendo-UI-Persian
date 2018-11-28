@@ -1,0 +1,6 @@
+@using Kendo.Mvc.UI
+@model DateTime?
+
+<div class="k-rtl">
+    @(Html.Kendo().TimePickerFor(m => m).Format("HH:mm").HtmlAttributes(new { style = "width: 20em" }))
+</div>

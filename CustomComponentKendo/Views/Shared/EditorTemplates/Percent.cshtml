@@ -1,0 +1,11 @@
+﻿@using Kendo.Mvc.UI
+@model int?
+
+@(Html.Kendo().NumericTextBoxFor(model => model)
+            .Step(1)
+            .Format("{0:#,0 %}")
+            .Placeholder("درصد را وارد نمایید")
+      .HtmlAttributes(new { style = "width: 20em" })
+      .Min(1)
+      .Max(int.MaxValue)
+)

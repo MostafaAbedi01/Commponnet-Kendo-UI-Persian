@@ -1,0 +1,12 @@
+﻿@using Kendo.Mvc.UI
+@model int?
+<div class="k-rtl">
+    @(Html.Kendo().NumericTextBoxFor(model => model)
+                    .Step(100)
+                        .Format("{0:#,0 ریال}")
+                    .Placeholder("مبلغ را وارد نمایید")
+              .HtmlAttributes(new { style = "width: 20em" })
+              .Min(1)
+              .Max(int.MaxValue)
+    )
+</div>

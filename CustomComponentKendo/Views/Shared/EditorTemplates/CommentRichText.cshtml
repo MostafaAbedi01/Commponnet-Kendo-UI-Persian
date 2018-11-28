@@ -1,0 +1,27 @@
+﻿@using Kendo.Mvc.UI
+@model string
+<div class="k-rtl" >
+    @(Html.Kendo().EditorFor(m => m)
+          .HtmlAttributes(new {style = "width: 550px;height:300px"})
+          .Tools(tools => tools
+              .Clear()
+              .Bold().Italic().Underline().Strikethrough()
+              .JustifyLeft().JustifyCenter().JustifyRight().JustifyFull()
+              .InsertUnorderedList()
+              .InsertOrderedList()
+              .Outdent().Indent()
+              .CreateLink().Unlink()
+              .TableEditing()
+              .FontName()
+              .FontSize()
+              .FontColor()
+              .BackColor()
+          )
+          )
+</div>
+
+<style>
+    .k-item {
+        float: right;
+    }
+</style>

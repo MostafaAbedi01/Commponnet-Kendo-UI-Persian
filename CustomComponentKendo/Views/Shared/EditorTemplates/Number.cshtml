@@ -1,0 +1,9 @@
+﻿@using Kendo.Mvc.UI
+@model int?
+<div class="k-rtl">
+    @(Html.Kendo().NumericTextBoxFor(model => model).Format("#")
+               .HtmlAttributes(new { style = "width: 20em" })
+                    .Step(1).Min(0)
+                      .Placeholder("عدد را وارد نمایید").Max(int.MaxValue)
+    )
+</div>

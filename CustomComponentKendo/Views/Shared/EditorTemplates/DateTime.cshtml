@@ -1,0 +1,13 @@
+﻿@using Kendo.Mvc.UI
+@model DateTime?
+
+<div class="k-rtl">
+    @if (Model.ToString() == "0001-01-01T00:00:00")
+    {
+        @Html.Kendo().DatePickerFor(m => m).Format("yyyy/MM/dd").HtmlAttributes(new {style = "width: 20em", type = "text" }).Value(DateTime.Now).Footer("امروز-  #=kendo.toString(data, 'dddd  yyyy/MM/dd') #")
+    }
+    else
+    {
+        @Html.Kendo().DatePickerFor(m => m).Format("yyyy/MM/dd").HtmlAttributes(new {style = "width: 20em", type = "text"}).Value(Model).Footer("امروز-  #=kendo.toString(data, 'dddd  yyyy/MM/dd') #")
+    }
+</div>

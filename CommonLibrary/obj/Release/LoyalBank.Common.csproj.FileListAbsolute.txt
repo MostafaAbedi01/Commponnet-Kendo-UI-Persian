@@ -1,0 +1,3 @@
+E:\Abedi_TFS_LoyalBank\LoyalBankWS\LoyalBankLibrary\LoyalBank.Common\obj\Release\LoyalBank.Common.csprojResolveAssemblyReference.cache
+D:\Abedi_TFS_CipMehrabad\Cip_Mehrabad\CipMehrabadLibrary\LoyalBank.Common\obj\Release\LoyalBank.Common.csprojAssemblyReference.cache
+D:\Abedi_TFS_CipMehrabad\Cip_Mehrabad\CipMehrabadLibrary\LoyalBank.Common\obj\Release\LoyalBank.Common.csproj.CoreCompileInputs.cache
