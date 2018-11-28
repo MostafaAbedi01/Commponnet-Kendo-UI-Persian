@@ -7,22 +7,23 @@ using System.Web.Mvc.Html;
 using System.Web.Script.Serialization;
 using System.Diagnostics.Contracts;
 using System.Web.Routing;
+using CommonLibrary.Web.Mvc.ScriptSeperation;
 using Mehr.Reflection;
-using Mehr.Web.Mvc.JqGrid;
-using Mehr.Web.Mvc.ScriptSeperation;
+using Mehr.Web;
+using Mehr.Web.Mvc;
 
 namespace CommonLibrary.Web.Mvc.Html
 {
     public static class UiHelperExtensions
     {
         public static MvcHtmlString AsReverseDateString(this long value)
-        { return MvcHtmlString.Create(Mehr.PersianDateTime.FromLong(value).ToReverseDateString()); }
+        { return MvcHtmlString.Create(PersianDateTime.FromLong(value).ToReverseDateString()); }
 
         public static MvcHtmlString AsDateString(this long value)
-        { return MvcHtmlString.Create(Mehr.PersianDateTime.FromLong(value).ToDateString()); }
+        { return MvcHtmlString.Create(PersianDateTime.FromLong(value).ToDateString()); }
 
         public static MvcHtmlString AsDateString(this long value, string fromat)
-        { return MvcHtmlString.Create(Mehr.PersianDateTime.FromLong(value).ToString(fromat)); }
+        { return MvcHtmlString.Create(PersianDateTime.FromLong(value).ToString(fromat)); }
 
         public static MvcHtmlString AsReverseDateString(this long? value)
         { return value == null ? MvcHtmlString.Empty : value.Value.AsReverseDateString(); }
@@ -63,31 +64,12 @@ namespace CommonLibrary.Web.Mvc.Html
         const string gridScriptTemplate = @"<script filename=""{3}.{0}"">" +
                      @"$('body').live('{1}', function(){{ new m.grid('{3}',{2}).build(); }});</script>";
 
-        public static MvcHtmlString JqGrid(this HtmlHelper html, Grid grid, string id = "grid", object options = null)
-        {
-            return MvcHtmlString.Create(
-                string.Format(gridScriptTemplate,
-                    grid.GetType().Name + grid.DefinitionVersion,
-                    grid.ClientBuildEventName,
-                    grid.GetClientModelAsJson(),
-                    id) +
-                html.JqGridOptions(id, options).ToHtmlString()
-                );
-        }
+       
 
         const string gridDialogScriptTemplate = @"<script filename=""{2}.{0}"">" +
                    @"$(function(){{ new m.grid('{2}',{1}).build(); }});</script>" +
                    @"<script id=""" + InlineScriptSeperatorFilterAttribute.ScriptIdTagValue + @"""></script>";
-        public static MvcHtmlString DialogJqGrid(this HtmlHelper html, Grid grid, string id = "grid", object options = null)
-        {
-            return MvcHtmlString.Create(
-                html.JqGridOptions(id, options).ToHtmlString() +
-                string.Format(gridDialogScriptTemplate,
-                    grid.GetType().Name + grid.DefinitionVersion,
-                    grid.GetClientModelAsJson(),
-                    id)
-                );
-        }
+      
 
 
         public static MvcHtmlString EnumAsHidden<T>(this HtmlHelper html, string emptyItemTtile = "<<همه>>", string name = null)

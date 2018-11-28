@@ -9,3 +9,15 @@ D:\Github\CommponnetKendoUI\CommonLibrary\obj\Debug\CommonLibrary.csproj.CoreCom
 D:\Github\CommponnetKendoUI\CommonLibrary\obj\Debug\CommonLibrary.csproj.CopyComplete
 D:\Github\CommponnetKendoUI\CommonLibrary\obj\Debug\CommonLibrary.dll
 D:\Github\CommponnetKendoUI\CommonLibrary\obj\Debug\CommonLibrary.pdb
+D:\Github\CommponnetKendoUI\CommonLibrary\bin\Debug\CommonLibrary.dll.config
+D:\Github\CommponnetKendoUI\CommonLibrary\bin\Debug\Microsoft.Web.Infrastructure.dll
+D:\Github\CommponnetKendoUI\CommonLibrary\bin\Debug\System.Web.Helpers.dll
+D:\Github\CommponnetKendoUI\CommonLibrary\bin\Debug\System.Web.Razor.dll
+D:\Github\CommponnetKendoUI\CommonLibrary\bin\Debug\System.Web.WebPages.Deployment.dll
+D:\Github\CommponnetKendoUI\CommonLibrary\bin\Debug\System.Web.WebPages.dll
+D:\Github\CommponnetKendoUI\CommonLibrary\bin\Debug\System.Web.WebPages.Razor.dll
+D:\Github\CommponnetKendoUI\CommonLibrary\bin\Debug\System.Web.Helpers.xml
+D:\Github\CommponnetKendoUI\CommonLibrary\bin\Debug\System.Web.Razor.xml
+D:\Github\CommponnetKendoUI\CommonLibrary\bin\Debug\System.Web.WebPages.xml
+D:\Github\CommponnetKendoUI\CommonLibrary\bin\Debug\System.Web.WebPages.Deployment.xml
+D:\Github\CommponnetKendoUI\CommonLibrary\bin\Debug\System.Web.WebPages.Razor.xml

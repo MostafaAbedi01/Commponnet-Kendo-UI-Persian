@@ -1,10 +1,9 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
 using System.Web;
+using Mehr;
+using Mehr.Web;
 
-namespace Mehr.Web
+namespace CommonLibrary.Web
 {
     public class HttpContextCacheProvider : ICacheProvider
     {

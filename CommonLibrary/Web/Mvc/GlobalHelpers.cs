@@ -7,7 +7,6 @@ using System.ComponentModel.DataAnnotations;
 using System.Web;
 using System.IO;
 using CommonLibrary.Web.Mvc.Validation;
-using Mehr.Web.Mvc.Validation;
 
 namespace Mehr.Web.Mvc
 {
@@ -33,7 +32,7 @@ namespace Mehr.Web.Mvc
             DataAnnotationsModelValidatorProvider.RegisterAdapter(typeof(NonZeroRequiredAttribute), typeof(RequiredValidator));
             DataAnnotationsModelValidatorProvider.RegisterAdapter(typeof(StringLengthAttribute), typeof(StringLengthValidator));
             DataAnnotationsModelValidatorProvider.RegisterAdapter(typeof(PersianDateAttribute), typeof(PersianDateValidator));
-            DataAnnotationsModelValidatorProvider.RegisterAdapter(typeof(Mehr.Web.Mvc.Validation.PhoneAttribute), typeof(RegularExpressionAttributeAdapter));
+            //DataAnnotationsModelValidatorProvider.RegisterAdapter(typeof(Mehr.Web.Mvc.Validation.PhoneAttribute), typeof(RegularExpressionAttributeAdapter));
             DataAnnotationsModelValidatorProvider.RegisterAdapter(typeof(CellPhoneAttribute), typeof(RegularExpressionAttributeAdapter));
             DataAnnotationsModelValidatorProvider.RegisterAdapter(typeof(MustMatchAttribute), typeof(MustMatchValidator));
             DataAnnotationsModelValidatorProvider.RegisterAdapter(typeof(RangeAttribute), typeof(RangeValidator));

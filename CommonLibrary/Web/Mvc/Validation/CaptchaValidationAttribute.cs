@@ -25,8 +25,8 @@ using System.Text;
 using System.Web.Mvc;
 using System.Web;
 using CommonLibrary.Web.Mvc;
-using TryInfo = System.Tuple<int, System.DateTime>;
 using Mehr.Setting;
+using TryInfo = System.Tuple<int, System.DateTime>;
 namespace CommonLibrary.Web.Mvc.Validation
 {
     /// <summary>

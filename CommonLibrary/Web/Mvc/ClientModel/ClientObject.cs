@@ -2,7 +2,6 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
-using Mehr.Web.Mvc.JqGrid.ClientModel;
 
 namespace CommonLibrary.Web.Mvc.ClientModel
 {
@@ -33,12 +32,13 @@ namespace CommonLibrary.Web.Mvc.ClientModel
             return (this[propertyName] as ClientProperty<T>).Value;
         }
 
+        //Abedi
         public virtual string GetClientModelAsJson()
         {
-            ISerializeMinifyManager serilizeMinifyManager = null;
-            if (ServiceLocator.Current != null)
-                serilizeMinifyManager = ServiceLocator.Current.Resolve<ISerializeMinifyManager>();
-            serilizeMinifyManager = serilizeMinifyManager ?? new DefaultSerializeMinifyManager();
+            //ISerializeMinifyManager serilizeMinifyManager = null;
+            //if (ServiceLocator.Current != null)
+            //    serilizeMinifyManager = ServiceLocator.Current.Resolve<ISerializeMinifyManager>();
+            //serilizeMinifyManager = serilizeMinifyManager ?? new DefaultSerializeMinifyManager();
 
             StringBuilder builder = new StringBuilder(this.Count * 20);
 
@@ -48,13 +48,13 @@ namespace CommonLibrary.Web.Mvc.ClientModel
             for (int i = 0; i < count; i++)
             {
                 var property = this[i];
-                if (!serilizeMinifyManager.Igonrable(property))
-                {
-                    if (isAnyAdded)
-                        builder.Append(',');
-                    isAnyAdded = true;
-                    builder.Append(property.GetClientModelAsJson());
-                }
+                //if (!serilizeMinifyManager.Igonrable(property))
+                //{
+                //    if (isAnyAdded)
+                //        builder.Append(',');
+                //    isAnyAdded = true;
+                //    builder.Append(property.GetClientModelAsJson());
+                //}
             }
             builder.Append('}');
 

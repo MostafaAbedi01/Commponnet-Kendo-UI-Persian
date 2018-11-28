@@ -191,3 +191,4 @@ D:\Github\CommponnetKendoUI\CustomComponentKendo\bin\Kendo.Mvc.pdb
 D:\Github\CommponnetKendoUI\CustomComponentKendo\bin\RestSharp.xml
 D:\Github\CommponnetKendoUI\CustomComponentKendo\bin\fa-IR\Kendo.Mvc.resources.dll
 D:\Github\CommponnetKendoUI\CustomComponentKendo\bin\fr-FR\Kendo.Mvc.resources.dll
+D:\Github\CommponnetKendoUI\CustomComponentKendo\bin\CommonLibrary.dll.config

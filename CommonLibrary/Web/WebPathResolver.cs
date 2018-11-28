@@ -1,12 +1,7 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using Mehr.Messagging;
-using System.Web;
-using System.Web.Hosting;
+﻿using System.Web.Hosting;
+using Mehr;
 
-namespace Mehr.Web
+namespace CommonLibrary.Web
 {
     public class WebPathResolver : IPathResolver
     {
@@ -18,7 +13,6 @@ namespace Mehr.Web
                 filePath = "~/" + filePath;
 
             return HostingEnvironment.MapPath(filePath);
-            //return HttpContext.Current.Server.MapPath(filePath);
         }
     }
 }
