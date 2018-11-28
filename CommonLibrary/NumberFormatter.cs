@@ -65,6 +65,9 @@ namespace CommonLibrary
         public static string AlphabeticalMoney(this int value, string postfix = null)
         { return AlphabeticalMoney((long)value, postfix); }
 
+        public static string AlphabeticalMoney(this string value, string postfix = null)
+        { return AlphabeticalMoney(Convert.ToInt64(value), postfix); }
+
         public static string AlphabeticalMoney(this long value, string postfix = null)
         {
             StringBuilder resultBuilder = new StringBuilder();

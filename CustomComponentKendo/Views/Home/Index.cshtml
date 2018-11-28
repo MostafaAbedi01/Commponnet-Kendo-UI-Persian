@@ -3,7 +3,7 @@
 @model  CustomComponentKendo.Models.BookingVm
 @{
     ViewBag.Title = "افزودن کاربران";
-    var price = "1500000";
+    var price = "151200";
 }
 
 
@@ -72,7 +72,10 @@
             </div>
             <div class="contact">
                 <p>
-                    مجموع قیمت: @price.NumericalMoney()
+                     قیمت به عدد فارسی : @price.NumericalMoney()
+                </p>
+                <p>
+                    قیمت به حروف : @price.AlphabeticalMoney()
                 </p>
                 @using (Html.BeginForm("Index", "Home", FormMethod.Post, new { role = "form" }))
                 {
