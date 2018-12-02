@@ -1,0 +1,74 @@
+/*
+	Coin Slider jQuery plugin CSS styles
+	http://workshop.rs/projects/coin-slider
+*/
+.coin-slider {
+    float: right;
+    overflow: hidden;
+    padding: 0;
+    position: inherit;
+    zoom: 1;
+}
+
+.coin-slider a {
+    border: none;
+    box-shadow: 0 1px 2px rgba(0, 0, 0, 0.5);
+    outline: none;
+    text-decoration: none;
+}
+
+/* buttons for switching */
+
+.cs-buttons {
+    float: left;
+    font-size: 0;
+    margin: 1px 0 0 !important;
+    padding: 0;
+}
+
+.cs-buttons a {
+    background: no-repeat center center;
+    border: 1px inset !important;
+    color: #fff !important;
+    float: left;
+    height: 18px;
+    margin: 0 2px;
+    text-indent: -10000px;
+    width: 20px;
+}
+
+.cs-buttons a.cs-active {
+    background-image: url(../images/Slider/slide_seprator.gif);
+    color: #fff;
+}
+
+/* text in slider */
+
+.cs-title {
+    background: url(../images/Slider/overlay.png) repeat left top;
+    color: #fff;
+    font-size: 12px;
+    line-height: 1.5em;
+    padding: 5px 60px 5px 24px;
+    width: 900px;
+}
+
+.cs-title big {
+    display: block;
+    font-size: 20px;
+    padding-bottom: 0;
+}
+
+/* buttons Next and Prew */
+
+.cs-prev, .cs-next {
+    background: url(../images/Slider/overlay.png) repeat left top;
+    color: #FFFFFF !important;
+    padding: 0 10px;
+}
+
+#templatemo_middle_wrapper {
+    background: #1f1f1e;
+    height: 260px;
+    width: 100%;
+}

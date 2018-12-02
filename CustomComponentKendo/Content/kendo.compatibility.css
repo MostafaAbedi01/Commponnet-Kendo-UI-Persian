@@ -1,0 +1,14 @@
+﻿.k-grid th a 
+{
+	position:static
+} 
+
+.k-grid .k-grid-header th a 
+{ 
+    padding: .5em .2em .4em; 
+}
+
+html body 
+{
+	border: 0
+} 

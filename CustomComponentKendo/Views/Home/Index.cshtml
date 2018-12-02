@@ -13,8 +13,8 @@
 <link href="@Url.Content("~/Content/kendo/2014.3/kendo.default.min.css")" rel="stylesheet" type="text/css" />
 
 <link href="~/Content/Site.css" rel="stylesheet" />
-<script src="/PackageAdmin/global/plugins/jquery.min.js" type="text/javascript"></script>
-
+@*<script src="/PackageAdmin/global/plugins/jquery.min.js" type="text/javascript"></script>*@
+<script src="~/Scripts/jquery.min.js"></script>
 
 <link href="/PackageAdmin/global/plugins/font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css" />
 <link href="/PackageAdmin/global/plugins/simple-line-icons/simple-line-icons.min.css" rel="stylesheet" type="text/css" />
@@ -61,10 +61,6 @@
 <section>
     <div class="container PTB40">
 
-        <h1 class="brand">
-            <span>کلیه خدمات تشریفات فرودگاهی</span>
-        </h1>
-
         <div class="wrapper">
             <div class="company-info company-info-vip">
                 <h3 style="color: #fff">کلیه خدمات تشریفات فرودگاهی</h3>
@@ -76,6 +72,9 @@
                 </p>
                 <p>
                     قیمت به حروف : @price.AlphabeticalMoney()
+                </p>
+                <p>
+                    اعداد فارسی : @price.LocalizeNumbers()
                 </p>
                 @using (Html.BeginForm("Index", "Home", FormMethod.Post, new { role = "form" }))
                 {
