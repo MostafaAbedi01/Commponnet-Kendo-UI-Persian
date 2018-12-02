@@ -1,2 +1,3 @@
 # CommponnetKendoUI
-custom component Kendo ui for persian
+I want create custom component Kendo ui for persian and iranian
+
