@@ -26,15 +26,15 @@ namespace CustomComponentKendo.Controllers
                 {
                     if (inVm.FirstName == "1")
                     {
-                        TempData.SetMessage("نام کاربری یا رمز عبور اشتباه است", MessageType.Success);
+                        TempData.SetMessage("پیغام موفق است", MessageType.Success);
                     }
                     else if (inVm.FirstName == "2")
                     {
-                        TempData.SetMessage("نام کاربری یا رمز عبور اشتباه است", MessageType.Error);
+                        TempData.SetMessage("پیغام خطا است", MessageType.Error);
                     }
                     else if (inVm.FirstName == "3")
                     {
-                        TempData.SetMessage("نام کاربری یا رمز عبور اشتباه است", MessageType.Warn);
+                        TempData.SetMessage("پیغام هشدار است", MessageType.Warn);
                     }
                 }
                 catch (Exception ex)
