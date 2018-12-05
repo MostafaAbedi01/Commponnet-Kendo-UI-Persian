@@ -38,7 +38,7 @@ namespace IranSoftjo.Core.Web.Mvc.Html
         public const string fieldClosing = @"</tr>";
 
         public const string noteTemplate = @"<span class=""inputNote"">{0}</span>";
-        public const string spriteImageTemplate = @"<img src=""{0}"" height=""1px"" width=""1px"" class=""{1}""/>";
+        public const string spriteImageTemplate = @"<img  height=""1px"" width=""1px"" class=""{1}""/>";
         public const string fieldGroupStart = @"<table class=""form"">";
         public const string fieldGroupEnd = @"</table>";
 

@@ -447,6 +447,7 @@
     <Content Include="fonts\glyphicons-halflings-regular.svg" />
     <Content Include="Global.asax" />
     <Content Include="Content\Site.css" />
+    <Content Include="Images\msgIcon.png" />
     <Content Include="PackageAdmin\apps\css\inbox-rtl.css" />
     <Content Include="PackageAdmin\apps\css\inbox-rtl.min.css" />
     <Content Include="PackageAdmin\apps\css\inbox.css" />

@@ -12,7 +12,6 @@ namespace CustomComponentKendo.Models
         public string FirstName { get; set; }
 
 
-        [Required(ErrorMessage = "لطفا {0} را وارد کنید")]
         [Display(Name = "ایمیل")]
         public string Email { get; set; }
 
@@ -23,7 +22,6 @@ namespace CustomComponentKendo.Models
         [Display(Name = "شماره کارت بانکی")] public string CardNumber { get; set; }
 
         [Display(Name = "تاریخ تولد")]
-        [Required(ErrorMessage = "لطفا {0} را وارد کنید")]
         [UIHint("DateTime")]
         public DateTime FlightDate { get; set; }
 
@@ -32,7 +30,6 @@ namespace CustomComponentKendo.Models
         public string FlightTime { get; set; }
 
         [Display(Name = "رمزعبور")]
-        [Required(ErrorMessage = "لطفا {0} را وارد کنید")]
         [DataType(DataType.Password)]
         public string Password { get; set; }
 
@@ -41,7 +38,6 @@ namespace CustomComponentKendo.Models
         [Display(Name = "خدمات حيوان خانگي ")] public bool IsHivanat { get; set; }
 
         [Display(Name = "شماره پرواز")]
-        [Required(ErrorMessage = "لطفا {0} را وارد کنید")]
         public string FlightNmber { get; set; }
         [Display(Name = "مقصد")]
         public short? Destination { get; set; }

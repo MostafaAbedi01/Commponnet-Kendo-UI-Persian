@@ -1,4 +1,6 @@
 ﻿@using CommonLibrary
+@using CommonLibrary.Web.Mvc
+@using IranSoftjo.Core.Web.Mvc
 @using IranSoftjo.Core.Web.Mvc.Html
 @model  CustomComponentKendo.Models.BookingVm
 @{
@@ -51,13 +53,8 @@
 
 
 <section>
-    <div class="container PTB40">
-
+    <div class="container ">
         <div class="wrapper">
-            <div class="company-info company-info-vip">
-                <h3 style="color: #fff">کلیه خدمات تشریفات فرودگاهی</h3>
-
-            </div>
             <div class="contact">
                 <p>
                     قیمت به عدد فارسی : @price.NumericalMoney()
@@ -68,64 +65,60 @@
                 <p>
                     اعداد فارسی : @price.LocalizeNumbers()
                 </p>
-                @using (Html.BeginForm("Index", "Home", FormMethod.Post, new { role = "form" }))
+                @using (Html.BeginForm("Index", "Home", FormMethod.Post, new {role = "form"}))
                 {
-                    <table class="form">
-                        @Html.AntiForgeryToken()
-                        @Html.ValidationSummary(true)
-                        <tr>
-                            <td class="labelWrp"></td>
-                            <td class="inputWrp" colspan="1">
+                <table class="form">
+                    @Html.GetMessage()
+                    @Html.AntiForgeryToken()
+                    @Html.ValidationSummary(true)
+                    <tr>
+                        <td class="labelWrp"></td>
+                        <td class="inputWrp" colspan="1">
 
-                                <h3 style="border-bottom: 1px solid black; padding-bottom: 5px">
-                                    اطلاعات پرواز
-                                </h3>
-                            </td>
-                        </tr>
-                        @Html.EnhancedEditorField(model => model.FlightNmber)
-                        @Html.EnhancedEditorField(model => model.FlightDate)
-                        @Html.EnhancedEditorField(model => model.FlightTime)
+                            <h3 style="border-bottom: 1px solid black; padding-bottom: 5px">
+                                اطلاعات پرواز
+                            </h3>
+                        </td>
+                    </tr>
+                    @Html.EnhancedEditorField(model => model.FirstName)
 
-
-                        @*@Html.EnhancedRadioButtonListField(model => model.Type, (IEnumerable<SelectListItem>)ViewBag.Type)*@
-
-                        @*@Html.EnhancedDropDownList(model => model.Destination, "Destination", "1")*@
+                    @Html.EnhancedEditorField(model => model.FlightNmber)
+                    @Html.EnhancedEditorField(model => model.FlightDate)
+                    @Html.EnhancedEditorField(model => model.FlightTime)
 
 
-                        <tr>
-                            <td class="labelWrp"></td>
-                            <td class="inputWrp" colspan="1">
+                    @*@Html.EnhancedRadioButtonListField(model => model.Type, (IEnumerable<SelectListItem>)ViewBag.Type)*@
 
-                                <h3 style="border-bottom: 1px solid black; padding-bottom: 5px">
-                                    مشخصات مسافرین
-                                </h3>
-                            </td>
-                        </tr>
-
-                        @*@Html.EnhancedDropDownList(model => model.Jensiat, "Jensiat", "1")*@
-                        @Html.EnhancedEditorField(model => model.FirstName)
-                        @Html.EnhancedEditorField(model => model.Email)
-                        @Html.EnhancedEditorField(model => model.Password)
-                        @Html.EnhancedEditorField(model => model.Mobile)
-                        @Html.EnhancedEditorField(model => model.NationalCode)
+                    @*@Html.EnhancedDropDownList(model => model.Destination, "Destination", "1")*@
 
 
+                    <tr>
+                        <td class="labelWrp"></td>
+                        <td class="inputWrp" colspan="1">
 
-                        @Html.EnhancedCheckBoxField(model => model.IsVilcher, note: " 800000".NumericalMoney())
-                        @Html.EnhancedCheckBoxField(model => model.IsHivanat, note: " 1200000".NumericalMoney())
+                            <h3 style="border-bottom: 1px solid black; padding-bottom: 5px">
+                                مشخصات مسافرین
+                            </h3>
+                        </td>
+                    </tr>
 
-                        @Html.EnhancedTextAreaField(model => model.Discription)
-                        @Html.EnhancedSubmit("ایجاد")
-                    </table>
+                    @*@Html.EnhancedDropDownList(model => model.Jensiat, "Jensiat", "1")*@
+                    @Html.EnhancedEditorField(model => model.Email)
+                    @Html.EnhancedEditorField(model => model.Password)
+                    @Html.EnhancedEditorField(model => model.Mobile)
+                    @Html.EnhancedEditorField(model => model.NationalCode)
+
+
+
+                    @Html.EnhancedCheckBoxField(model => model.IsVilcher, note: " 800000".NumericalMoney())
+                    @Html.EnhancedCheckBoxField(model => model.IsHivanat, note: " 1200000".NumericalMoney())
+
+                    @Html.EnhancedTextAreaField(model => model.Discription)
+                    @Html.EnhancedSubmit("ایجاد")
+                </table>
                 }
 
-
-                <!-- End #contact-form -->
             </div>
-            <!-- End .contact -->
-
         </div>
-        <!-- End .wrapper -->
     </div>
-    <!-- End .container -->
 </section>

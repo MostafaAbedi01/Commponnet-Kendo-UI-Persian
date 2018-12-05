@@ -1,7 +1,7 @@
 ﻿using System.Web.Mvc;
 using IranSoftjo.Core.Web.Mvc.Html;
 
-namespace IranSoftjo.Core.Web.Mvc
+namespace CommonLibrary.Web.Mvc
 {
     public enum MessageType
     {
@@ -47,13 +47,13 @@ namespace IranSoftjo.Core.Web.Mvc
             return !string.IsNullOrWhiteSpace(tempData.GetMessage());
         }
 
-        public static MvcHtmlString GetMessage(this HtmlHelper html, string imageUrl)
+        public static MvcHtmlString GetMessage(this HtmlHelper html)
         {
             TempDataDictionary tempData = html.ViewContext.TempData;
             if (tempData.IsMessageExists())
             {
                 string messageTypeClass = tempData.GetMessageTypeClass("");
-                string imageHtml = html.SpriteImage(imageUrl, "msgImg " + messageTypeClass + "Img").ToString();
+                string imageHtml = html.SpriteImage("", "msgImg " + messageTypeClass + "Img").ToString();
                 return
                     MvcHtmlString.Create(string.Format(MessageHtmlTemplate, tempData.GetMessage(), messageTypeClass,
                         imageHtml));

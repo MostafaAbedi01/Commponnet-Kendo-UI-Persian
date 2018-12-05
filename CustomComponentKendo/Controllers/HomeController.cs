@@ -3,7 +3,10 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Web;
 using System.Web.Mvc;
+using System.Web.Security;
+using CommonLibrary.Web.Mvc;
 using CustomComponentKendo.Models;
+using IranSoftjo.Core.Web.Mvc;
 
 namespace CustomComponentKendo.Controllers
 {
@@ -17,6 +20,28 @@ namespace CustomComponentKendo.Controllers
         [HttpPost]
         public ActionResult Index(BookingVm inVm)
         {
+            if (ModelState.IsValid)
+            {
+                try
+                {
+                    if (inVm.FirstName == "1")
+                    {
+                        TempData.SetMessage("نام کاربری یا رمز عبور اشتباه است", MessageType.Success);
+                    }
+                    else if (inVm.FirstName == "2")
+                    {
+                        TempData.SetMessage("نام کاربری یا رمز عبور اشتباه است", MessageType.Error);
+                    }
+                    else if (inVm.FirstName == "3")
+                    {
+                        TempData.SetMessage("نام کاربری یا رمز عبور اشتباه است", MessageType.Warn);
+                    }
+                }
+                catch (Exception ex)
+                {
+                    TempData.SetMessage(ex.Message, MessageType.Error);
+                }
+            }
             return View();
         }
         public ActionResult About()
