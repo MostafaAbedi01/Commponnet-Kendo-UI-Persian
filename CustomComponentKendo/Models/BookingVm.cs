@@ -34,7 +34,7 @@ namespace CustomComponentKendo.Models
         public string Password { get; set; }
 
         [Display(Name = "توضیحات")] public string Discription { get; set; }
-        [Display(Name = "ویلچر ")] public bool IsVilcher { get; set; }
+        [Display(Name = "چک باکس ")] public bool IsVilcher { get; set; }
         [Display(Name = "خدمات حيوان خانگي ")] public bool IsHivanat { get; set; }
 
         [Display(Name = "شماره پرواز")]
@@ -50,6 +50,7 @@ namespace CustomComponentKendo.Models
         public string LatinLastName { get; set; }
         public string PNR { get; set; }
         public string WebSite { get; set; }
+        public string CartNumber { get; set; }
 
 
         //public static explicit operator Booking(BookingVm model)
