@@ -26,7 +26,13 @@
                             </h3>
                         </td>
                     </tr>
-                    @Html.EnhancedEditorField(model => model.FirstName)
+                    @Html.EnhancedEditorField(model => model.Name)
+                    @Html.EnhancedEditorField(model => model.Email)
+                    @Html.EnhancedEditorField(model => model.Password)
+                    @Html.EnhancedEditorField(model => model.Mobile)
+                    @Html.EnhancedEditorField(model => model.NationalCode)
+                    @Html.EnhancedEditorField(model => model.CartNumber)
+
                     @Html.EnhancedSubmit("ایجاد")
 
                     <tr>

@@ -1,5 +1,6 @@
 ﻿using System;
 using System.ComponentModel.DataAnnotations;
+using System.Web.Mvc;
 
 namespace CustomComponentKendo.Models
 {
@@ -9,8 +10,7 @@ namespace CustomComponentKendo.Models
 
         [Required(ErrorMessage = "لطفا {0} را وارد کنید")]
         [Display(Name = "نام")]
-        public string FirstName { get; set; }
-
+        public string Name { get; set; }
 
         [Display(Name = "ایمیل")]
         public string Email { get; set; }
@@ -21,11 +21,11 @@ namespace CustomComponentKendo.Models
 
         [Display(Name = "شماره کارت بانکی")] public string CardNumber { get; set; }
 
-        [Display(Name = "تاریخ تولد")]
+        [Display(Name = "تاریخ")]
         [UIHint("DateTime")]
         public DateTime FlightDate { get; set; }
 
-        [Display(Name = "ساعت تولد")]
+        [Display(Name = "ساعت")]
         [UIHint("Time")]
         public string FlightTime { get; set; }
 
@@ -50,8 +50,16 @@ namespace CustomComponentKendo.Models
         public string LatinLastName { get; set; }
         public string PNR { get; set; }
         public string WebSite { get; set; }
+        [Display(Name = "شماره کارت بانکی")]
         public string CartNumber { get; set; }
 
+        [Display(Name = "عکس")]
+        public string ImageUrl { get; set; }
+
+        [Display(Name = "توضیحات")]
+        [AllowHtml]
+        [UIHint("RichText")]
+        public string DescriptionAllowHtml { get; set; }
 
         //public static explicit operator Booking(BookingVm model)
         //{
@@ -59,7 +67,7 @@ namespace CustomComponentKendo.Models
         //    {
         //        Discription = model.Discription,
         //        Email = model.Email,
-        //        FirstName = model.FirstName,
+        //        Name = model.Name,
         //        LastName = model.LastName,
         //        Mobile = model.Mobile,
         //        NationalCode = model.NationalCode,
@@ -84,7 +92,7 @@ namespace CustomComponentKendo.Models
         //    {
         //        Discription = model.Discription,
         //        Email = model.Email,
-        //        FirstName = model.FirstName,
+        //        Name = model.Name,
         //        LastName = model.LastName,
         //        Mobile = model.Mobile,
         //        NationalCode = model.NationalCode,

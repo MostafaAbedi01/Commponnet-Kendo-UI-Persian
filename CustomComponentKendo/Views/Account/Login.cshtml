@@ -1,0 +1,62 @@
+﻿@using IranSoftjo.Core.Web.Mvc.Html
+@model  LoyalBankWebUi.Models.LoginVm
+<section>
+    <div class="container PTB40">
+        <h1 class="brand">
+            <span>ورود</span>
+        </h1>
+        <div class="wrapper">
+
+            <!-- COMPANY INFORMATION -->
+            <div class="company-info company-info-login">
+                <h3 style="color: #fff">ورود</h3>
+            </div>
+            <!-- End .company-info -->
+            <!-- CONTACT FORM -->
+            <div class="contact">
+                <h3>ورود به سامانه</h3>
+                <!-- BEGIN LOGIN FORM -->
+                @using (Html.BeginForm("Login", "Account", new {ReturnUrl = Session["ReturnUrl"]}, FormMethod.Post, new {role = "form"}))
+                {
+                    // @Html.GetMessage("/PanelAdmin/img/msgIcon.png")
+                    @Html.AntiForgeryToken()
+                    @Html.ValidationSummary(true, "", new {@class = "text-danger"})
+                    if (!Session["ReturnUrl"].ToString().IsEmpty())
+                    {
+                        <p style="color: darkorange; text-align: center;">شما به این صفحه دسترسی ندارید لطفا نام کاربری و رمزعبور قابل دسترسی به این صفحه را وارد نمایید</p>
+                    }
+
+                    <p>نام کاربری و رمزعبور خود را وارد نمایید</p>
+
+                    <div class="form-group">
+                        <!--ie8, ie9 does not support html5 placeholder, so we just show field title for that-->
+                        <label class="control-label visible-ie8 visible-ie9"> <i class="fa fa-user"></i> نام کاربری</label>
+                        <div class="input-icon">
+                            @Html.TextBoxFor(m => m.Username, new {@class = "form-control placeholder-no-fix", placeholder = "نام کاربری"})
+                            @Html.ValidationMessageFor(m => m.Username, "", new {@class = "text-danger"})
+                        </div>
+                    </div>
+                    <div class="form-group">
+                        <label class="control-label visible-ie8 visible-ie9"> <i class="fa fa-lock"></i> رمز عبور</label>
+                        <div class="input-icon">
+                            @Html.PasswordFor(m => m.Password, new {@class = "form-control placeholder-no-fix", placeholder = "رمز عبور"})
+                            @Html.ValidationMessageFor(m => m.Password, "", new {@class = "text-danger"})
+                        </div>
+                    </div>
+                    <div class="form-actions">
+                        <label class="checkbox">
+
+                            @Html.EnhancedCheckBoxField(model => model.RememberMe)
+                        </label>
+                        <button type="submit" class="btn green pull-right"> ورود به پنل <i class="m-icon-swapright m-icon-white"></i> </button>
+                    </div>
+                }
+                <!-- End #contact-form -->
+            </div>
+            <!-- End .contact -->
+
+        </div>
+        <!-- End .wrapper -->
+    </div>
+    <!-- End .container -->
+</section>

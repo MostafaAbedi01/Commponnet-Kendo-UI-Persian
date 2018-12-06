@@ -34,7 +34,7 @@ namespace LoyalBankWebUi.Areas.Usr.Models
         //    var obj = new VersionIphone
         //    {
         //        VersionStaticValue = model.VersionStaticValue,
-        //        Description = model.Description,
+        //        DescriptionAllowHtml = model.DescriptionAllowHtml,
         //        DownloadUrl = model.DownloadUrl,
         //        IsForceDownload = model.IsForceDownload,
         //        VersionApp = model.VersionApp,
@@ -50,7 +50,7 @@ namespace LoyalBankWebUi.Areas.Usr.Models
         //    var obj = new TestVm
         //    {
         //        VersionStaticValue = model.VersionStaticValue,
-        //        Description = model.Description,
+        //        DescriptionAllowHtml = model.DescriptionAllowHtml,
         //        DownloadUrl = model.DownloadUrl,
         //        IsForceDownload = model.IsForceDownload,
         //        VersionApp = (int) model.VersionApp,
@@ -67,7 +67,7 @@ namespace LoyalBankWebUi.Areas.Usr.Models
         //    var product = models.Select(model => new TestVm
         //    {
         //        VersionStaticValue = model.VersionStaticValue,
-        //        Description = model.Description,
+        //        DescriptionAllowHtml = model.DescriptionAllowHtml,
         //        DownloadUrl = model.DownloadUrl,
         //        IsForceDownload = model.IsForceDownload,
         //        VersionApp = (int)model.VersionApp,

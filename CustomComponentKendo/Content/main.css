@@ -1155,6 +1155,7 @@ text-align: right;
 }
 
 .wrapper {
+    margin-top: 100px;
   box-shadow: 0 0 20px 0 #d2ab67;
 }
 
@@ -1258,11 +1259,8 @@ text-align: right;
   border-radius: 5px;
 }*/
 select{
-  border-top: none;
-  border-right: none;
-  border-left: none;
-  border-bottom: 1px solid #d2ab67;
-  outline: none;
+    border-radius: 4px;
+    border-color: #c5c5c5;
 }
 .contact form button:hover,
 .contact form button:focus {

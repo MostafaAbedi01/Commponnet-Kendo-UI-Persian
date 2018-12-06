@@ -25,15 +25,15 @@ namespace CustomComponentKendo.Controllers
             {
                 try
                 {
-                    if (inVm.FirstName == "1")
+                    if (inVm.Name == "1")
                     {
                         TempData.SetMessage("پیغام موفق است", MessageType.Success);
                     }
-                    else if (inVm.FirstName == "2")
+                    else if (inVm.Name == "2")
                     {
                         TempData.SetMessage("پیغام خطا است", MessageType.Error);
                     }
-                    else if (inVm.FirstName == "3")
+                    else if (inVm.Name == "3")
                     {
                         TempData.SetMessage("پیغام هشدار است", MessageType.Warn);
                     }
@@ -46,8 +46,19 @@ namespace CustomComponentKendo.Controllers
             return View();
         }
 
+        public ActionResult SaveFile(HttpPostedFileBase file)
+        {
+            Session["HttpPostedFileBase"] = file;
+            return Content("");
+        }
+        public Dictionary<string, string> DicType = new Dictionary<string, string>
+        {
+            {"1", "مرد"},
+            {"2", "زن"}
+        };
         public ActionResult Components()
         {
+        ViewBag.Jensiat = new SelectList(DicType, "Key", "Value", "1");
             return View(new BookingVm());
         }
         public ActionResult Index()

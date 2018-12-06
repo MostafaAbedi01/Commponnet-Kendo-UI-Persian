@@ -2,6 +2,7 @@
 @using CommonLibrary.Web.Mvc
 @using IranSoftjo.Core.Web.Mvc
 @using IranSoftjo.Core.Web.Mvc.Html
+@using Kendo.Mvc.UI
 @model  CustomComponentKendo.Models.BookingVm
 @{
     ViewBag.Title = "صفحه اول";
@@ -13,7 +14,7 @@
         <div class="wrapper">
             <div class="contact">
                 
-                @using (Html.BeginForm("Index", "Home", FormMethod.Post, new {role = "form"}))
+                @using (Html.BeginForm("Components", "Home", FormMethod.Post, new {role = "form"}))
                 {
                 <table class="form">
                     <tr>
@@ -30,17 +31,20 @@
                     @Html.EnhancedEditorField(model => model.FlightTime)
                     @Html.EnhancedTextAreaField(model => model.Discription)
                     @Html.EnhancedCheckBoxField(model => model.IsVilcher, note: " 800000".NumericalMoney())
+                    @Html.EnhancedDropDownList(model => model.Jensiat, "Jensiat", "1")
 
-                    @*@Html.EnhancedRadioButtonListField(model => model.Type, (IEnumerable<SelectListItem>)ViewBag.Type)*@
-
-                    @*@Html.EnhancedDropDownList(model => model.Destination, "Destination", "1")*@
-                    @*@Html.EnhancedDropDownList(model => model.Jensiat, "Jensiat", "1")*@
-
-                    @Html.EnhancedEditorField(model => model.Email)
-                    @Html.EnhancedEditorField(model => model.Password)
-                    @Html.EnhancedEditorField(model => model.Mobile)
-                    @Html.EnhancedEditorField(model => model.NationalCode)
-                    @Html.EnhancedEditorField(model => model.CartNumber)
+                    <td class="labelWrp">
+                        <label >@Html.LabelFor(model => model.ImageUrl)</label>
+                    </td>
+                    <td  class="inputWrp">
+                        @Html.Kendo().Upload().Name("file").Multiple(false).Async(async => async.Save("SaveFile", "Home"))
+                        @if (Model.ImageUrl != "")
+                        {
+                            <br>
+                            <span></span>
+                            <img src="@Model.ImageUrl" />
+                        }
+                    </td>
 
 
                 </table>
