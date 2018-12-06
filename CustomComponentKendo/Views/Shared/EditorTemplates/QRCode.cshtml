@@ -1,0 +1,16 @@
+﻿@using Kendo.Mvc.UI
+@model string
+<div class="k-rtl" >
+    @(Html.Kendo().QRCode().Name("qr")
+          .Value("https://github.com/MostafaAbedi01")
+          .ErrorCorrection(QRErrorCorrectionLevel.M)
+          .Size(120)
+          .Border(border => border.Color("#000000").Width(5))
+          )
+</div>
+
+<style>
+    .k-item {
+        float: right;
+    }
+</style>

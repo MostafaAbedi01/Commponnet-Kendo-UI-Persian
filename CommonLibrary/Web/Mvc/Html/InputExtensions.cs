@@ -134,7 +134,7 @@ namespace IranSoftjo.Core.Web.Mvc.Html
                 tagBuilder.MergeAttributes(new RouteValueDictionary(htmlAttributes));
             tagBuilder.MergeAttribute("type", "submit");
             tagBuilder.MergeAttribute("value", caption);
-            tagBuilder.MergeAttribute("class", "full");
+            tagBuilder.MergeAttribute("class", "k-primary");
           
             return MvcHtmlString.Create(string.Format(submitTemplate, tagBuilder.ToString(TagRenderMode.SelfClosing)));
         }

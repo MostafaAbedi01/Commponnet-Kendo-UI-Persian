@@ -1,0 +1,20 @@
+﻿@using Kendo.Mvc.UI
+@model double
+<div class="k-rtl" >
+    @(Html.Kendo().SliderFor(m => m)
+          .Name("slider")
+          .IncreaseButtonTitle("Right")
+          .DecreaseButtonTitle("Left")
+          .Min(-10)
+          .Max(30)
+          .SmallStep(1)
+          .LargeStep(10)
+          .Value(0)
+          .HtmlAttributes(new {@class = "balSlider", title = "Slider"}))
+</div>
+
+<style>
+    .k-item {
+        float: right;
+    }
+</style>

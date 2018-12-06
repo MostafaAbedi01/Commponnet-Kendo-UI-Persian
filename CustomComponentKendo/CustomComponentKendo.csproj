@@ -6253,6 +6253,8 @@
     <Content Include="Views\Home\Validation.cshtml" />
     <Content Include="Views\Home\Components.cshtml" />
     <Content Include="Views\Account\Login.cshtml" />
+    <Content Include="Views\Shared\EditorTemplates\QRCode.cshtml" />
+    <Content Include="Views\Shared\EditorTemplates\Slider.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />

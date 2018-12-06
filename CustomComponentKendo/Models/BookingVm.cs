@@ -12,8 +12,7 @@ namespace CustomComponentKendo.Models
         [Display(Name = "نام")]
         public string Name { get; set; }
 
-        [Display(Name = "ایمیل")]
-        public string Email { get; set; }
+        [Display(Name = "ایمیل")] public string Email { get; set; }
 
         [Display(Name = "موبایل")] public string Mobile { get; set; }
 
@@ -22,12 +21,17 @@ namespace CustomComponentKendo.Models
         [Display(Name = "شماره کارت بانکی")] public string CardNumber { get; set; }
 
         [Display(Name = "تاریخ")]
-        [UIHint("DateTime")]
-        public DateTime FlightDate { get; set; }
+        [UIHint("Date")]
+        public DateTime Date { get; set; }
 
         [Display(Name = "ساعت")]
         [UIHint("Time")]
-        public string FlightTime { get; set; }
+        public string Time { get; set; }
+
+
+        [Display(Name = "تاریخ و ساعت")]
+        [UIHint("DateTime")]
+        public DateTime DateTime { get; set; }
 
         [Display(Name = "رمزعبور")]
         [DataType(DataType.Password)]
@@ -37,12 +41,13 @@ namespace CustomComponentKendo.Models
         [Display(Name = "چک باکس ")] public bool IsVilcher { get; set; }
         [Display(Name = "خدمات حيوان خانگي ")] public bool IsHivanat { get; set; }
 
-        [Display(Name = "شماره پرواز")]
-        public string FlightNmber { get; set; }
-        [Display(Name = "مقصد")]
-        public short? Destination { get; set; }
-        [Display(Name = "جنسیت")]
-        public short? Jensiat { get; set; }
+        [Display(Name = "شماره ")]
+        [UIHint("Number")]
+        public int FlightNmber { get; set; }
+
+        [Display(Name = "مقصد")] public short? Destination { get; set; }
+
+        [Display(Name = "جنسیت")] public short? Jensiat { get; set; }
 
         public long DataIdFinal { get; set; }
         public string SerialNumberPos { get; set; }
@@ -50,16 +55,23 @@ namespace CustomComponentKendo.Models
         public string LatinLastName { get; set; }
         public string PNR { get; set; }
         public string WebSite { get; set; }
-        [Display(Name = "شماره کارت بانکی")]
-        public string CartNumber { get; set; }
 
-        [Display(Name = "عکس")]
-        public string ImageUrl { get; set; }
+        [Display(Name = "شماره کارت بانکی")] public string CartNumber { get; set; }
+
+        [Display(Name = "آپلود عکس")] public string ImageUrl { get; set; }
 
         [Display(Name = "توضیحات")]
         [AllowHtml]
         [UIHint("RichText")]
         public string DescriptionAllowHtml { get; set; }
+
+        [Display(Name = "بارکد")]
+        [UIHint("QRCode")]
+        public string Qrcode { get; set; }
+        [Display(Name = "اسلایدر")]
+        [UIHint("Slider")]
+        public double Slider { get; set; }
+
 
         //public static explicit operator Booking(BookingVm model)
         //{
@@ -71,8 +83,8 @@ namespace CustomComponentKendo.Models
         //        LastName = model.LastName,
         //        Mobile = model.Mobile,
         //        NationalCode = model.NationalCode,
-        //        FlightDate = model.FlightDate,
-        //        FlightTime = model.FlightTime,
+        //        Date = model.Date,
+        //        Time = model.Time,
         //        AirLine = model.AirLine,
         //        Destination = model.Destination,
         //        Origin = model.Origin,
@@ -96,8 +108,8 @@ namespace CustomComponentKendo.Models
         //        LastName = model.LastName,
         //        Mobile = model.Mobile,
         //        NationalCode = model.NationalCode,
-        //        FlightDate = model.FlightDate ?? DateTime.Now,
-        //        FlightTime = model.FlightTime ,
+        //        Date = model.Date ?? DateTime.Now,
+        //        Time = model.Time ,
         //        AirLine = model.AirLine,
         //        Destination = model.Destination,
         //        Origin = model.Origin,
