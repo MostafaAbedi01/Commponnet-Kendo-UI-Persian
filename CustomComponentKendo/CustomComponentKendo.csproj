@@ -6246,6 +6246,10 @@
     <Content Include="Scripts\kendo\2014.3\shared\styles\kendoui.woff" />
     <Content Include="Scripts\ShamsiDatePicker.zip" />
     <Content Include="Views\Shared\header.cshtml" />
+    <Content Include="Views\Home\Grid.cshtml" />
+    <Content Include="Views\Home\Numbers.cshtml" />
+    <Content Include="Views\Home\Validation.cshtml" />
+    <Content Include="Views\Home\Components.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
@@ -6296,7 +6300,7 @@
           <IISUrl>http://localhost:21356/</IISUrl>
           <NTLMAuthentication>False</NTLMAuthentication>
           <UseCustomServer>True</UseCustomServer>
-          <CustomServerUrl>http://eniactest.com/</CustomServerUrl>
+          <CustomServerUrl>http://mostafaabedi01.com</CustomServerUrl>
           <SaveServerSettingsInUserFile>False</SaveServerSettingsInUserFile>
         </WebProjectProperties>
       </FlavorProperties>

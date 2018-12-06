@@ -1,0 +1,48 @@
+﻿@using CommonLibrary
+@using CommonLibrary.Web.Mvc
+@using IranSoftjo.Core.Web.Mvc
+@using IranSoftjo.Core.Web.Mvc.Html
+@model  CustomComponentKendo.Models.BookingVm
+@{
+    ViewBag.Title = "اعتبار سنجی";
+}
+
+
+<section>
+    <div class="container ">
+        <div class="wrapper">
+            <div class="contact">
+                @using (Html.BeginForm("Index", "Home", FormMethod.Post, new {role = "form"}))
+                {
+                <table class="form">
+                    @Html.GetMessage()
+                    @Html.AntiForgeryToken()
+                    @Html.ValidationSummary(true)
+                    <tr>
+                        <td class="labelWrp"></td>
+                        <td class="inputWrp" colspan="1">
+                            <h3 style="border-bottom: 1px solid black; padding-bottom: 5px">
+                                کامپوننت ها
+                            </h3>
+                        </td>
+                    </tr>
+                    @Html.EnhancedEditorField(model => model.FirstName)
+                    @Html.EnhancedSubmit("ایجاد")
+
+                    <tr>
+                        <td class="labelWrp"></td>
+                        <td class="inputWrp" colspan="1">
+
+                            <h3 style="border-bottom: 1px solid black; padding-bottom: 5px">
+                                اعتبار سنجی ها
+                            </h3>
+                        </td>
+                    </tr>
+
+                </table>
+                }
+
+            </div>
+        </div>
+    </div>
+</section>

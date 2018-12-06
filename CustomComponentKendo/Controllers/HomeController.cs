@@ -13,12 +13,13 @@ namespace CustomComponentKendo.Controllers
     public class HomeController : Controller
     {
         [HttpGet]
-        public ActionResult Index()
+        public ActionResult Validation()
         {
             return View(new BookingVm());
         }
+
         [HttpPost]
-        public ActionResult Index(BookingVm inVm)
+        public ActionResult Validation(BookingVm inVm)
         {
             if (ModelState.IsValid)
             {
@@ -44,10 +45,27 @@ namespace CustomComponentKendo.Controllers
             }
             return View();
         }
+
+        public ActionResult Components()
+        {
+            return View(new BookingVm());
+        }
+        public ActionResult Index()
+        {
+            return View(new BookingVm());
+        }
+
+        public ActionResult Numbers()
+        {
+            return View(new BookingVm());
+        }
+        public ActionResult Grid()
+        {
+            return View(new BookingVm());
+        }
+
         public ActionResult About()
         {
-            ViewBag.Message = "Your application description page.";
-
             return View();
         }
     }

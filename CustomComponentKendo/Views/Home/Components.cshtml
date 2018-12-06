@@ -1,0 +1,52 @@
+﻿@using CommonLibrary
+@using CommonLibrary.Web.Mvc
+@using IranSoftjo.Core.Web.Mvc
+@using IranSoftjo.Core.Web.Mvc.Html
+@model  CustomComponentKendo.Models.BookingVm
+@{
+    ViewBag.Title = "صفحه اول";
+}
+
+
+<section>
+    <div class="container ">
+        <div class="wrapper">
+            <div class="contact">
+                
+                @using (Html.BeginForm("Index", "Home", FormMethod.Post, new {role = "form"}))
+                {
+                <table class="form">
+                    <tr>
+                        <td class="labelWrp"></td>
+                        <td class="inputWrp" colspan="1">
+                            <h3 style="border-bottom: 1px solid black; padding-bottom: 5px">
+                                کامپوننت ها
+                            </h3>
+                        </td>
+                    </tr>
+
+                    @Html.EnhancedEditorField(model => model.FlightNmber)
+                    @Html.EnhancedEditorField(model => model.FlightDate)
+                    @Html.EnhancedEditorField(model => model.FlightTime)
+                    @Html.EnhancedTextAreaField(model => model.Discription)
+                    @Html.EnhancedCheckBoxField(model => model.IsVilcher, note: " 800000".NumericalMoney())
+
+                    @*@Html.EnhancedRadioButtonListField(model => model.Type, (IEnumerable<SelectListItem>)ViewBag.Type)*@
+
+                    @*@Html.EnhancedDropDownList(model => model.Destination, "Destination", "1")*@
+                    @*@Html.EnhancedDropDownList(model => model.Jensiat, "Jensiat", "1")*@
+
+                    @Html.EnhancedEditorField(model => model.Email)
+                    @Html.EnhancedEditorField(model => model.Password)
+                    @Html.EnhancedEditorField(model => model.Mobile)
+                    @Html.EnhancedEditorField(model => model.NationalCode)
+                    @Html.EnhancedEditorField(model => model.CartNumber)
+
+
+                </table>
+                }
+
+            </div>
+        </div>
+    </div>
+</section>
