@@ -1,11 +1,49 @@
-﻿@using CommonLibrary
-@using CommonLibrary.Web.Mvc
-@using IranSoftjo.Core.Web.Mvc
-@using IranSoftjo.Core.Web.Mvc.Html
-@model  CustomComponentKendo.Models.BookingVm
+﻿@model  IEnumerable<CustomComponentKendo.Models.BookingVm>
+@using Kendo.Mvc.UI
 @{
     ViewBag.Title = "گرید";
 }
 <h3 style="border-bottom: 1px solid black; padding-bottom: 5px">
     @ViewBag.Title
 </h3>
+<div class="k-rtl">
+    @(Html.Kendo().Grid(Model)
+                          .Name("Grid")
+                          .Columns(columns =>
+                          {
+                              columns.Bound(model => model.Id);
+                              columns.Bound(model => model.Mobile);
+                              columns.Bound(item => item.ImageUrl)
+                                  .Template(@@<div style="text-align: center;">
+                                    <img style="height: 40px; width: 40px;" src="@item.ImageUrl" />
+                                </div>);
+                                    columns.Bound(item => item.Id).Title("دستورات").Filterable(false).Groupable(false)
+                            .Template(@<text>
+                                @Html.ActionLink("ارسال پوش", "SendMessage", new { id = item.Id }, new { @class = "btn btn-circle default blue-stripe" })
+                                @Html.ActionLink("تراکنشها", "Transactions", new { id = item.Id }, new { @class = "btn btn-circle default green-stripe" })
+                            </text>).Width(280);
+                      })
+                                    .ToolBar(toolbar => toolbar.Custom().Action("SendMessageToAll", "User")
+                                        .Text("<i class='fa fa fa-paper-plane'></i> ارسال پوش نوتیفیکیشن به همه ")
+                                        .HtmlAttributes(new { @class = "btn btn-circle default green-stripe" })
+                                    )
+                                    .ToolBar(toolbar => toolbar.Custom().Action("SendSmsToAll", "User")
+                                        .Text("<i class='fa fa fa-commenting-o'></i> ارسال پیامک (SMS) گروهی")
+                                        .HtmlAttributes(new { @class = "btn btn-circle default green-stripe" })
+                                    )
+                                    .Pageable(pager => pager
+                                        .PageSizes(true)
+                                        .PageSizes(new[] { 10, 20, 40, 80, 100 }))
+                                    .Sortable()
+                                    .Scrollable()
+                                    .Filterable()
+                                    .Groupable()
+                                    .Resizable(resize => resize.Columns(true))
+                                    .HtmlAttributes(new { style = "height:700px;" })
+                                    .DataSource(dataSource => dataSource
+                                        .Server()
+                                        .Model(model => model.Id(item => item.Id))
+                                        .PageSize(200)
+                                    )
+    )
+</div>

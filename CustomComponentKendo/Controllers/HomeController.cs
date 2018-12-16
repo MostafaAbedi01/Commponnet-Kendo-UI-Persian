@@ -72,10 +72,15 @@ namespace CustomComponentKendo.Controllers
         }
         public ActionResult Grid()
         {
-            return View(new BookingVm());
+            var lst =new List<BookingVm>();
+            lst.Add(new BookingVm()
+            {
+                CardNumber="test"
+            });
+            return View(lst);
         }
 
-        public ActionResult About()
+        public ActionResult Editor()
         {
             return View();
         }
