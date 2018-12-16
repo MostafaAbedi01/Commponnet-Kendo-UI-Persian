@@ -4,74 +4,8 @@
 @using IranSoftjo.Core.Web.Mvc.Html
 @model  CustomComponentKendo.Models.BookingVm
 @{
-    ViewBag.Title = "صفحه اول";
-    var price = "151200";
+    ViewBag.Title = "گرید";
 }
-
-
-<section>
-    <div class="container ">
-        <div class="wrapper">
-            <div class="contact">
-                <p>
-                    قیمت به عدد فارسی : @price.NumericalMoney()
-                </p>
-                <p>
-                    قیمت به حروف : @price.AlphabeticalMoney()
-                </p>
-                <p>
-                    اعداد فارسی : @price.LocalizeNumbers()
-                </p>
-                @using (Html.BeginForm("Index", "Home", FormMethod.Post, new {role = "form"}))
-                {
-                <table class="form">
-                    @Html.GetMessage()
-                    @Html.AntiForgeryToken()
-                    @Html.ValidationSummary(true)
-                    <tr>
-                        <td class="labelWrp"></td>
-                        <td class="inputWrp" colspan="1">
-                            <h3 style="border-bottom: 1px solid black; padding-bottom: 5px">
-                                کامپوننت ها
-                            </h3>
-                        </td>
-                    </tr>
-                    @Html.EnhancedEditorField(model => model.Name)
-
-                    @Html.EnhancedEditorField(model => model.FlightNmber)
-                    @Html.EnhancedEditorField(model => model.Date)
-                    @Html.EnhancedEditorField(model => model.Time)
-                    @Html.EnhancedTextAreaField(model => model.Discription)
-                    @Html.EnhancedCheckBoxField(model => model.IsVilcher, note: " 800000".NumericalMoney())
-
-                    @*@Html.EnhancedRadioButtonListField(model => model.Type, (IEnumerable<SelectListItem>)ViewBag.Type)*@
-
-                    @*@Html.EnhancedDropDownList(model => model.Destination, "Destination", "1")*@
-                    @*@Html.EnhancedDropDownList(model => model.Jensiat, "Jensiat", "1")*@
-
-                    @Html.EnhancedSubmit("ایجاد")
-
-                    <tr>
-                        <td class="labelWrp"></td>
-                        <td class="inputWrp" colspan="1">
-
-                            <h3 style="border-bottom: 1px solid black; padding-bottom: 5px">
-                                اعتبار سنجی ها
-                            </h3>
-                        </td>
-                    </tr>
-
-                    @Html.EnhancedEditorField(model => model.Email)
-                    @Html.EnhancedEditorField(model => model.Password)
-                    @Html.EnhancedEditorField(model => model.Mobile)
-                    @Html.EnhancedEditorField(model => model.NationalCode)
-                    @Html.EnhancedEditorField(model => model.CartNumber)
-
-
-                </table>
-                }
-
-            </div>
-        </div>
-    </div>
-</section>
+<h3 style="border-bottom: 1px solid black; padding-bottom: 5px">
+    @ViewBag.Title
+</h3>
